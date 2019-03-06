@@ -33,10 +33,10 @@ for file in g:
             lines_trim = lines[loc_start:]
             loc_end = lines_trim.find('"')
             location = lines_trim[:loc_end]
+            print(file)
                             
            
         location_dict[location] = geocoder.geocode(location)
-        print(location, "\n", location_dict[location])
 
 
 m = getorg.orgmap.create_map_obj()
