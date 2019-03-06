@@ -1,6 +1,5 @@
 ---
-layout: archive
-title: "CV"
+title: "CV [(PDF File)](http://perso.ens-lyon.fr/alexandre.veith/files/AlexandreVeith-CV.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,30 +10,54 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, FEEVALE University, 2012
+* M.S. in Applied Computing, Unisinos University, 2014
+* Ph.D in Algorithms for Big Data Streams Analytics, ENS-Lyon, 2019 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+2016: École normale supérieure de Lyon
+* Ph.D. Student
+	
+2003-2016 Altero Design
+* IT Manager
+* Software Architect
+* ABAP Developer
+* Delphi Developer
+* Process Analyst
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+  * Reinforcement Learning
+  * Monte Carlo Tree Search
+  * Q-Learning
+* Queueing Theory
+* Graph Theory
+* Algorithms
+* Distributed Computing
+* High Performance Computing (HPC)
+* Big Data frameworks
+  * Apache Kafka
+  * Mosquitto
+  * Apache Flink
+  * Apache Storm
+  * Apache Edgent
+* Simulation tools
+  * Simgrid
+  * OMNeT++
+  * iFogSim
+* SAP ECC 6.0
+  * ABAP
+  * Production Planning (PP)
+  * Warehouse Management System (WMS)
+  * Materials Management (MM)
+  * Sales and Distribution (SD)
+* Programming Languages
+  * Java
+  * C++
+  * Delphi
+  * Python
 
 Publications
 ======
@@ -53,7 +76,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
