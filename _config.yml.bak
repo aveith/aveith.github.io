@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexandre DA SILVA VEITH"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Alexandre DA SILVA VEITH"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io #http://perso.ens-lyon.fr/alexandre.veith # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "aveith/aveith.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,35 +80,35 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexandre DA SILVA VEITH"
-  avatar           : "alexandreveith.png"
-  bio              : "Ph.D. Student at ENS-Lyon"
-  location         : "69007 Lyon, France"
-  employer         : 
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ZrkbeCQAAAAJ&hl=en"
-  email            : "alexandre.veith@ens-lyon.fr"
-  researchgate     : "https://www.researchgate.net/profile/Alexandre_Veith2?ev=hdr_xprf"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "alexandre.veith.9"
+  facebook         :
   foursquare       :
-  github           : "aveith" 
+  github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        : "alexandreveith"
+  instagram        :
   lastfm           :
-  linkedin         : "alexandre-veith-1837b49/"
-  orcid            : "http://orcid.org/0000-0001-5130-1792"
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@alexandreveith"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
