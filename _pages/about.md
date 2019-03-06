@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 * I am a Ph.D student in the [Laboratoire de l'Informatique du Parallélisme](https://avalon.ens-lyon.fr/) at [École normale supérieure de Lyon](http://www.ens-lyon.fr/). [[Curriculum Vitae]](http://perso.ens-lyon.fr/alexandre.veith/files/AlexandreVeith-CV.pdf)
-* My undergraduate research advisors are [Dr. Marcos Assunção](http://marcosassuncao.me/) and [Prof. Laurent Lefèvre](http://perso.ens-lyon.fr/laurent.lefevre/) ([INRIA](https://www.inria.fr/en/)).
-* I received my Bachelor’s Degree in [FEEVALE University](https://www.feevale.br/en/) and my Master's Degree in [UNISINOS University](http://www.unisinos.br/global/en/). 
+* My advisors are [Dr. Marcos Assunção](http://marcosassuncao.me/) and [Prof. Laurent Lefèvre](http://perso.ens-lyon.fr/laurent.lefevre/) ([INRIA](https://www.inria.fr/en/)).
+* I received the B.S. in Computer Science at [FEEVALE University](https://www.feevale.br/en/) and the M.Sc. in Computer Science [UNISINOS University](http://www.unisinos.br/global/en/). 
 * I like to code.
 * I am self-motivated.
 
