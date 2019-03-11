@@ -29,7 +29,7 @@ redirect_from:
 * **2016 - present**: Ph.D. in Computer Science.
   * **Title**: Algorithms for big data analytics.
   * **Advisors**: Marcos Assunção and Laurent Lefèvre.
-  * **Hosting team**: AVALON-Team at LIP at [ENS-Lyon](http://www.ens-lyon.fr/).
+  * **Hosting team**: AVALON-Team in LIP at [ENS-Lyon](http://www.ens-lyon.fr/).
   * **Defense**: September 2019.
   * **Approach**: I propose models and solutions for the placement problem of (near)real-time big data analytics on heterogeneous infrastructures addressing the single- and multi-objective optimization problem. In the models, I apply methods from queueing theory, Markov Decision Process(MDP), and Reinforcement Learning(RL). And for the solutions, I consider approaches as series-parallel graphs, Monte-Carlo Tree Search (MCTS), Temporal Difference Tree Search (TDTS), Q-learning and greedy algorithms.
 

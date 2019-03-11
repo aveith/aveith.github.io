@@ -11,7 +11,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, FEEVALE University, 2012
-* M.S. in Applied Computing, Unisinos University, 2014
+* M.S. in Computer Science, Unisinos University, 2014
 * Ph.D in Algorithms for Big Data Streams Analytics, ENS-Lyon, 2019 (expected)
 
 Work experience
