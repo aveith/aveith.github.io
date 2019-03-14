@@ -6,7 +6,7 @@ venue: "HotEdge 2018"
 date: 2018-6-12
 citation: '<b>da Silva Veith, Alexandre</b>; Dias de Assuncao, Marcos; Lefevre, Laurent'
 ---
-[[Paper]](http://perso.ens-lyon.fr/alexandre.veith/files/hotedge2018.pdf)
+[[Paper]](http://aveith.github.io/files/hotedge2018.pdf)
 
 
 

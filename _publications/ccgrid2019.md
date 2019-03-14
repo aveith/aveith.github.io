@@ -6,7 +6,7 @@ venue: "CCGrid 2019"
 date: 2019-2-12
 citation: 'Gibert Renart, Eduard*; <b>da Silva Veith, Alexandre</b>*; Balouek-Thomert, Daniel; de Assunção, Marcos Dias; Lefèvre, Laurent'
 ---
-[[Paper]](http://perso.ens-lyon.fr/alexandre.veith/files/ccgrid2019.pdf) [[BIBTEX]](http://perso.ens-lyon.fr/alexandre.veith/files/ccgrid2019.bib)
+[[Paper]](http://aveith.github.io/files/ccgrid2019.pdf) [[BIBTEX]](http://aveith.github.io/files/ccgrid2019.bib)
 
 
 

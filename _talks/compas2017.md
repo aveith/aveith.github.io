@@ -7,4 +7,4 @@ venue: "Compas"
 date: 2017-06-01
 location: "Antibes, France"
 ---
-[Slides](http://perso.ens-lyon.fr/alexandre.veith/files/compas2017-pres.pdf)
+[Slides](http://aveith.github.io/files/compas2017-pres.pdf)

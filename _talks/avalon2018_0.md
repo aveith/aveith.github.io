@@ -7,5 +7,5 @@ venue: "Avalon Seminar"
 date: 2018-05-01
 location: "Lyon, France"
 ---
-[Slides](http://perso.ens-lyon.fr/alexandre.veith/files/avalon2018_0-pres.pdf)
+[Slides](http://aveith.github.io/files/avalon2018_0-pres.pdf)
 

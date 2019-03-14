@@ -6,7 +6,7 @@ venue: "ICSOC 2018"
 date: 2018-6-12
 citation: '<b>da Silva Veith, Alexandre</b>; de Assunção, Marcos Dias; Lefèvre, Laurent'
 ---
-[[Paper]](http://perso.ens-lyon.fr/alexandre.veith/files/icsoc2018.pdf) [[BIBTEX]](http://perso.ens-lyon.fr/alexandre.veith/files/icsoc2018.bib)
+[[Paper]](http://aveith.github.io/files/icsoc2018.pdf) [[BIBTEX]](http://aveith.github.io/files/icsoc2018.bib)
 
 
 

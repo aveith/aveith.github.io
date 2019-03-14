@@ -6,7 +6,7 @@ venue: "COMPAS 2017"
 date: 2017-7-12
 citation: '<b>da Silva Veith, Alexandre</b>; Dias de Assunção, Marcos; Lefèvre, Laurent'
 ---
-[[Paper]](http://perso.ens-lyon.fr/alexandre.veith/files/compas2017.pdf)
+[[Paper]](http://aveith.github.io/files/compas2017.pdf)
 
 
 

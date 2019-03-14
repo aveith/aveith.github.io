@@ -7,5 +7,5 @@ venue: "Comite Suive"
 date: 2018-04-23
 location: "Lyon, France"
 ---
-[Slides](http://perso.ens-lyon.fr/alexandre.veith/files/suive2018-pres.pdf)
+[Slides](http://aveith.github.io/files/suive2018-pres.pdf)
 
