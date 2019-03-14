@@ -1,5 +1,5 @@
 ---
-title: "CV [(PDF File)](http://perso.ens-lyon.fr/alexandre.veith/files/AlexandreVeith-CV.pdf)"
+title: "CV [(PDF File)](http://aveith.github.io/files/AlexandreVeith-CV.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
