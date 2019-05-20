@@ -39,8 +39,7 @@ redirect_from:
   * **Hosting team**: [Departament of Applied Computing](http://www.unisinos.br/global/en/prospective-student/graduate/applied-computing) at [UNISINOS University](http://www.unisinos.br/global/en).
 
 # Recent News
-* Febuary 27, 2019: From the paper submitted to Euro-Par 2019, I extended the MCTS algorithms by includinga a multi-objective optimization problem. "Multi-Objective Reinforcement Learning for Reconfiguration of Data Analytics on Edge Computing".
-* February 25, 2019: A paper titled "Monte-Carlo Tree Search and Reinforcement Learning for Reconfiguration of Data Stream Processing on Edge Computing" was submitted to [Euro-Par 2019](http://www.europar.org/).
+* May 17, 2019: I attended the 19th Annual IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing held in Larnaca, Cyprus and I gave a [talk].
 * February 16, 2019: A paper titled "Distributed Operator Placement for IoT Data Analytics Across Edge and Cloud Resources" was accepted at [IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing (CCGrid 2019)](https://www.ccgrid2019.org/index.html).
 * November 12-15, 2018: I attended the 16th International Conference on Service Oriented Computing held in Hangzhou, Zhejiang, China and I gave a [talk].
 * July 23, 2018: A paper titled "Latency-Aware Placement of Data Stream Analytics on Edge Computing" was accepted at [International Conference on Service Oriented Computing](http://www.icsoc.org/) (ICSOC).
