@@ -24,6 +24,7 @@ redirect_from:
 * Machine Learning/Reinforcement learning.
 * Edge/FoG computing.
 * Internet of Things (IoT) issues.
+* [Here](http://aveith.github.io/files/research_statement.pdf) you can find a research statement.
 
 # Research Activities
 * **2016 - present**: Ph.D. in Computer Science.
