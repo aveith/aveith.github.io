@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<img src="http://aveith.github.io/files/qrcode.png">
-
 * I am a Ph.D. student in the [Laboratoire de l'Informatique du Parallélisme(LIP)](https://avalon.ens-lyon.fr/) at [École normale supérieure de Lyon](http://www.ens-lyon.fr/). [[Curriculum Vitae]](http://aveith.github.io/files/AlexandreVeith-CV.pdf).
 * My advisors are [Dr. Marcos Assunção](http://marcosassuncao.me/) and [Dr. Laurent Lefèvre](http://perso.ens-lyon.fr/laurent.lefevre/) ([INRIA](https://www.inria.fr/en/)).
 * My research topic is "Algorithms for big data analytics".
