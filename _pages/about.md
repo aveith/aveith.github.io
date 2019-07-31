@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<img src="http://aveith.github.io/files/qrcode.png">
 
 * I am a Ph.D. student in the [Laboratoire de l'Informatique du Parallélisme(LIP)](https://avalon.ens-lyon.fr/) at [École normale supérieure de Lyon](http://www.ens-lyon.fr/). [[Curriculum Vitae]](http://aveith.github.io/files/AlexandreVeith-CV.pdf).
 * My advisors are [Dr. Marcos Assunção](http://marcosassuncao.me/) and [Dr. Laurent Lefèvre](http://perso.ens-lyon.fr/laurent.lefevre/) ([INRIA](https://www.inria.fr/en/)).
@@ -18,13 +19,13 @@ redirect_from:
 
 # Research Interests
 * Elasticity for stream processing applications.
-* Modelling the behavior of distributed systems.
+* Modelling the behaviour of distributed systems.
 * Single- and multi-objective optimization problems.
 * (Near) Real-time solutions for big data analytics.
-* Machine Learning/Reinforcement learning.
+* Machine Learning and Reinforcement learning.
 * Edge/FoG computing.
 * Internet of Things (IoT) issues.
-* [Here](http://aveith.github.io/files/research_statement.pdf) you can find a research statement.
+* [Here](http://aveith.github.io/files/research_statement.pdf) you can find my research statement.
 
 # Research Activities
 * **2016 - present**: Ph.D. in Computer Science.
@@ -32,7 +33,7 @@ redirect_from:
   * **Advisors**: Marcos Assunção and Laurent Lefèvre.
   * **Hosting team**: AVALON-Team in LIP at [ENS-Lyon](http://www.ens-lyon.fr/).
   * **Defense**: September 2019.
-  * **Approach**: I propose models and solutions for the placement problem of (near)real-time big data analytics on heterogeneous infrastructures addressing the single- and multi-objective optimization problem. In the models, I apply methods from queueing theory, Markov Decision Process(MDP), and Reinforcement Learning(RL). And for the solutions, I consider approaches as series-parallel graphs, Monte-Carlo Tree Search (MCTS), Temporal Difference Tree Search (TDTS), Q-learning and greedy algorithms.
+  * **Approach**: I propose models and solutions for the placement problem of (near)real-time big data analytics on heterogeneous infrastructures addressing the single- and multi-objective optimization problem. In my models, I apply methods from queueing theory, Markov Decision Process(MDP), and Reinforcement Learning(RL). My solutions consider approaches as series-parallel graphs, Monte-Carlo Tree Search (MCTS), Temporal Difference Tree Search (TDTS), Q-learning and greedy algorithms.
 
 * **2012 - 2014**: M.Sc. in Computer Science. 
   * **Subject**: Rescheduling and checkpointing as strategies to Bulk Synchornous Parallel (BSP) programs on P2P desktop grids.
