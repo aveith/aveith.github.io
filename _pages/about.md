@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Ph.D. student in the [Laboratoire de l'Informatique du Parallélisme(LIP)](https://avalon.ens-lyon.fr/) at [École normale supérieure de Lyon](http://www.ens-lyon.fr/). [[Curriculum Vitae]](http://aveith.github.io/files/AlexandreVeith-CV.pdf).
+* I am a Ph.D. student in the [Laboratoire de l'Informatique du Parallélisme(LIP)](https://avalon.ens-lyon.fr/) at [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/). [[Curriculum Vitae]](http://aveith.github.io/files/AlexandreVeith-CV.pdf).
 * My advisors are [Dr. Marcos Assunção](http://marcosassuncao.me/) and [Dr. Laurent Lefèvre](http://perso.ens-lyon.fr/laurent.lefevre/) ([INRIA](https://www.inria.fr/en/)).
 * My research topic is "Algorithms for big data analytics".
 * I work on placement and optimization problems.
@@ -39,6 +39,7 @@ redirect_from:
   * **Hosting team**: [Departament of Applied Computing](http://www.unisinos.br/global/en/prospective-student/graduate/applied-computing) at [UNISINOS University](http://www.unisinos.br/global/en).
 
 # Recent News
+* August 5, 2019: I attended the 48th International Conference on Parallel Processing and I gave a [talk].
 * May 21, 2019: A paper titled "Multi-Objective Reinforcement Learning for Reconfiguring Data Stream Analytics on Edge Computing" was accepted at [48th International Conference on Parallel Processing](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/) (ICPP).
 * May 17, 2019: I attended the 19th Annual IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing held in Larnaca, Cyprus and I gave a [talk].
 * February 16, 2019: A paper titled "Distributed Operator Placement for IoT Data Analytics Across Edge and Cloud Resources" was accepted at [IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing (CCGrid 2019)](https://www.ccgrid2019.org/index.html).
