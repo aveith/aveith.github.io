@@ -11,14 +11,14 @@ redirect_from:
 * I am a Ph.D. student in the [Laboratoire de l'Informatique du Parallélisme(LIP)](https://avalon.ens-lyon.fr/) at [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/). [[Curriculum Vitae]](http://aveith.github.io/files/AlexandreVeith-CV.pdf).
 * My advisors are [Dr. Marcos Assunção](http://marcosassuncao.me/) and [Dr. Laurent Lefèvre](http://perso.ens-lyon.fr/laurent.lefevre/) ([INRIA](https://www.inria.fr/en/)).
 * My research topic is "Algorithms for big data analytics".
-* I work on placement and optimization problems.
+* I work on placement and optimisation problems.
 * I like to code.
 * I am self-motivated.
 
 # Research Interests
-* Elasticity for stream processing applications.
+* Elasticity for data stream processing applications.
 * Modelling the behaviour of distributed systems.
-* Single- and multi-objective optimization problems.
+* Single- and multi-objective optimisation problems.
 * (Near) Real-time solutions for big data analytics.
 * Machine Learning and Reinforcement learning.
 * Edge/FoG computing.
@@ -31,7 +31,7 @@ redirect_from:
   * **Advisors**: Marcos Assunção and Laurent Lefèvre.
   * **Hosting team**: AVALON-Team in LIP at [ENS-Lyon](http://www.ens-lyon.fr/).
   * **Defense**: September 2019.
-  * **Approach**: I propose models and solutions for the placement problem of (near)real-time big data analytics on heterogeneous infrastructures addressing the single- and multi-objective optimization problem. In my models, I apply methods from queueing theory, Markov Decision Process(MDP), and Reinforcement Learning(RL). My solutions consider approaches as series-parallel graphs, Monte-Carlo Tree Search (MCTS), Temporal Difference Tree Search (TDTS), Q-learning and greedy algorithms.
+  * **Approach**: I propose models and solutions for the placement problem of (near)real-time big data analytics on heterogeneous infrastructures addressing the single- and multi-objective optimisation problem. In my models, I apply methods from queueing theory, Markov Decision Process(MDP), and Reinforcement Learning(RL). My solutions rely on series-parallel graphs, Monte-Carlo Tree Search (MCTS), Temporal Difference Tree Search (TDTS), Q-learning and greedy algorithms.
 
 * **2012 - 2014**: M.Sc. in Computer Science. 
   * **Subject**: Rescheduling and checkpointing as strategies to Bulk Synchornous Parallel (BSP) programs on P2P desktop grids.
@@ -39,6 +39,7 @@ redirect_from:
   * **Hosting team**: [Departament of Applied Computing](http://www.unisinos.br/global/en/prospective-student/graduate/applied-computing) at [UNISINOS University](http://www.unisinos.br/global/en).
 
 # Recent News
+* August 21-23, 2019: I visited the University of Toronto and I also participated of a seminar [talk].
 * August 5, 2019: I attended the 48th International Conference on Parallel Processing and I gave a [talk].
 * May 21, 2019: A paper titled "Multi-Objective Reinforcement Learning for Reconfiguring Data Stream Analytics on Edge Computing" was accepted at [48th International Conference on Parallel Processing](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/) (ICPP).
 * May 17, 2019: I attended the 19th Annual IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing held in Larnaca, Cyprus and I gave a [talk].

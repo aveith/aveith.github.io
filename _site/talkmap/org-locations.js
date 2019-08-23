@@ -30,9 +30,19 @@ var addressPoints = [
     6.0736956
   ],
   [
+    "Kyoto, Japan",
+    35.021041,
+    135.7556075
+  ],
+  [
     "Sao Leopoldo, Brazil",
     -29.7544405,
     -51.1516497
+  ],
+  [
+    "Toronto, Canada",
+    43.653963,
+    -79.387207
   ],
   [
     "Larnaca, Cyprus",
