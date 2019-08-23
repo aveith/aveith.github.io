@@ -40,6 +40,7 @@ redirect_from:
 
 # Recent News
 * August 21-23, 2019: I visited the University of Toronto and I also participated of a seminar [talk].
+* August 7, 2019: A paper titled "Monte-Carlo Tree Search and Reinforcement Learning for Reconfiguring Data Stream Processing on Edge Computing" was accepted at [The International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2019)](http://sbac-pad.facom.ufms.br/).
 * August 5, 2019: I attended the 48th International Conference on Parallel Processing and I gave a [talk].
 * May 21, 2019: A paper titled "Multi-Objective Reinforcement Learning for Reconfiguring Data Stream Analytics on Edge Computing" was accepted at [48th International Conference on Parallel Processing](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/) (ICPP).
 * May 17, 2019: I attended the 19th Annual IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing held in Larnaca, Cyprus and I gave a [talk].
