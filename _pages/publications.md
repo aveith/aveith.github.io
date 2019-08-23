@@ -9,6 +9,9 @@ author_profile: true
 Dias de Assunção, Marcos; <b>da Silva Veith, Alexandre</b>; Buyya, Rajkumar. <i>Journal of Network and Computer Applications</i>. <b>JNCA 2018</b>.
 
 ## International Conferences
+<b>[Monte-Carlo Tree Search and Reinforcement Learning for Reconfiguring Data Stream Processing on Edge Computing]({% include base_path %}sbac2019)</b><br>
+<b>da Silva Veith, Alexandre</b>; Marcos; Lefèvre, Laurent. <i>International Symposium on Computer Architecture and High Performance Computing</i>. <b>SBAC-PAD 2019</b>.
+
 <b>[Multi-Objective Reinforcement Learning for Reconfiguring Data Stream Analytics on Edge Computing]({% include base_path %}icpp2019)</b><br>
 <b>da Silva Veith, Alexandre</b>; de Souza, Felipe Rodrigo; Dias de Assunção, Marcos; Lefèvre, Laurent; Santos dos Anjos, Julio Cesar. <i>48th International Conference on Parallel Processing</i>. <b>ICPP 2019</b>.
 
