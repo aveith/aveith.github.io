@@ -38,7 +38,17 @@ redirect_from:
   * **Supervisor**: [Rodrigo da Rosa Righi](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4705414D4).
   * **Hosting team**: [Departament of Applied Computing](http://www.unisinos.br/global/en/prospective-student/graduate/applied-computing) at [UNISINOS University](http://www.unisinos.br/global/en).
 
+#Program committees
+* PC member of **ICPP 2020**.
+
+#Other paper reviews
+* Review for **CCGrid 2017**, **IEEE Globecom 2017**, and **IEEE Globecom 2018**.
+
+#Volunteer Organiser
+* **SBAC-PAD 2018**.
+
 # Recent News
+* August 30, 2019: I was invited to be a PC member of ICPP 2020.
 * August 21-23, 2019: I visited the University of Toronto and I also participated of a seminar [talk].
 * August 7, 2019: A paper titled "Monte-Carlo Tree Search and Reinforcement Learning for Reconfiguring Data Stream Processing on Edge Computing" was accepted at [The International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2019)](http://sbac-pad.facom.ufms.br/).
 * August 5, 2019: I attended the 48th International Conference on Parallel Processing and I gave a [talk].
