@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-2016: École normale supérieure de Lyon
+2016-2019: École normale supérieure de Lyon
 * Ph.D. Student
 	
 2003-2015 Altero Design
