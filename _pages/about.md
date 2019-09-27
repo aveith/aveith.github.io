@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Ph.D. student in the [Laboratoire de l'Informatique du Parallélisme(LIP)](https://avalon.ens-lyon.fr/) at [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/). [[Curriculum Vitae]](http://aveith.github.io/files/AlexandreVeith-CV.pdf).
+* I am a Ph.D. student in the [Laboratoire de l'Informatique du Parallélisme(LIP)](http://www.ens-lyon.fr/LIP/) at [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/). [[Curriculum Vitae]](http://aveith.github.io/files/AlexandreVeith-CV.pdf).
 * My advisors are [Dr. Marcos Assunção](http://marcosassuncao.me/) and [Dr. Laurent Lefèvre](http://perso.ens-lyon.fr/laurent.lefevre/) ([INRIA](https://www.inria.fr/en/)).
 * My research topic is "Algorithms for big data analytics".
 * I work on placement and optimisation problems.
@@ -18,20 +18,20 @@ redirect_from:
 # Research Interests
 * Elasticity for data stream processing applications.
 * Modelling the behaviour of distributed systems.
-* Single- and multi-objective optimisation problems.
+* Mono- and multi-objective optimisation problems.
 * (Near) Real-time solutions for big data analytics.
-* Machine Learning and Reinforcement learning.
+* Machine Learning (ML) and Reinforcement Learning (RL).
 * Edge/FoG computing.
 * Internet of Things (IoT) issues.
 * [Here](http://aveith.github.io/files/research_statement.pdf) you can find my research statement.
 
 # Research Activities
-* **2016 - present**: Ph.D. in Computer Science.
-  * **Title**: Algorithms for big data analytics.
-  * **Advisors**: Marcos Assunção and Laurent Lefèvre.
-  * **Hosting team**: AVALON-Team in LIP at [ENS-Lyon](http://www.ens-lyon.fr/).
+* **2016 - 2019**: Ph.D. in Computer Science.
+  * **Title**: Algorithms for big data analytics. [Thesis here](http://aveith.github.io/files/thesis.pdf)
+  * **Advisors**: [Marcos Dias de Assunção](http://www.marcosassuncao.me/) and [Laurent Lefèvre](https://perso.ens-lyon.fr/laurent.lefevre/).
+  * **Hosting team**: [AVALON-Team](https://avalon.ens-lyon.fr/) in [LIP](http://www.ens-lyon.fr/LIP/) at [ENS-Lyon](http://www.ens-lyon.fr/).
   * **Defense**: September 2019.
-  * **Approach**: I propose models and solutions for the placement problem of (near)real-time big data analytics on heterogeneous infrastructures addressing the single- and multi-objective optimisation problem. In my models, I apply methods from queueing theory, Markov Decision Process(MDP), and Reinforcement Learning(RL). My solutions rely on series-parallel graphs, Monte-Carlo Tree Search (MCTS), Temporal Difference Tree Search (TDTS), Q-learning and greedy algorithms.
+  * **Approach**: I worked on the subject "Algorithms for Elastic Big-Data Stream Analytics" where I developed QoS-aware mechanisms for (re)configuring data stream processing applications across edge and cloud resources. During my investigation, I introduced models and solutions for placing (near)real-time applications on heterogeneous infrastructures addressing single and multiple performance metrics. The techniques and methods covered by the research included: queueing theory, Markov Decision Process (MDP), and Reinforcement Learning (RL), series-parallel graphs, Monte-Carlo Tree Search (MCTS), Temporal Difference Tree Search (TDTS), Q-learning and greedy algorithms.
 
 * **2012 - 2014**: M.Sc. in Computer Science. 
   * **Subject**: Rescheduling and checkpointing as strategies to Bulk Synchornous Parallel (BSP) programs on P2P desktop grids.
@@ -48,21 +48,22 @@ redirect_from:
 * **SBAC-PAD 2018**.
 
 # Recent News
+* September 23, 2019: Ph.D. defense [talk] entitled "Quality of Service Aware Mechanisms for (Re)Configuring Data Stream Processing Applications on Highly Distributed Infrastructure".
 * August 30, 2019: I was invited to be a PC member of ICPP 2020.
-* August 21-23, 2019: I visited the University of Toronto and I also participated of a seminar [talk].
+* August 21-23, 2019: I visited the University of Toronto and I also gave a talk [talk].
 * August 7, 2019: A paper titled "Monte-Carlo Tree Search and Reinforcement Learning for Reconfiguring Data Stream Processing on Edge Computing" was accepted at [The International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2019)](http://sbac-pad.facom.ufms.br/).
 * August 5, 2019: I attended the 48th International Conference on Parallel Processing and I gave a [talk].
-* May 21, 2019: A paper titled "Multi-Objective Reinforcement Learning for Reconfiguring Data Stream Analytics on Edge Computing" was accepted at [48th International Conference on Parallel Processing](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/) (ICPP).
+* May 21, 2019: A paper entitled "Multi-Objective Reinforcement Learning for Reconfiguring Data Stream Analytics on Edge Computing" was accepted at [48th International Conference on Parallel Processing](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/) (ICPP).
 * May 17, 2019: I attended the 19th Annual IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing held in Larnaca, Cyprus and I gave a [talk].
-* February 16, 2019: A paper titled "Distributed Operator Placement for IoT Data Analytics Across Edge and Cloud Resources" was accepted at [IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing (CCGrid 2019)](https://www.ccgrid2019.org/index.html).
+* February 16, 2019: A paper entitled "Distributed Operator Placement for IoT Data Analytics Across Edge and Cloud Resources" was accepted at [IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing (CCGrid 2019)](https://www.ccgrid2019.org/index.html).
 * November 12-15, 2018: I attended the 16th International Conference on Service Oriented Computing held in Hangzhou, Zhejiang, China and I gave a [talk].
-* July 23, 2018: A paper titled "Latency-Aware Placement of Data Stream Analytics on Edge Computing" was accepted at [International Conference on Service Oriented Computing](http://www.icsoc.org/) (ICSOC).
+* July 23, 2018: A paper entitled "Latency-Aware Placement of Data Stream Analytics on Edge Computing" was accepted at [International Conference on Service Oriented Computing](http://www.icsoc.org/) (ICSOC).
 * July 10, 2018: I attended the USENIX Workshop on Hot Topics in Edge Computing held in Boston, MA, USA.
-* June 23, 2018: A poster titled "Latency-Aware Strategies for Placing Data Stream Analytics onto Edge Computing" was accepted at [USENIX Workshop on Hot Topics in Edge Computing (HotEdge '18)](https://www.usenix.org/conference/hotedge18).
+* June 23, 2018: A poster entitled "Latency-Aware Strategies for Placing Data Stream Analytics onto Edge Computing" was accepted at [USENIX Workshop on Hot Topics in Edge Computing (HotEdge '18)](https://www.usenix.org/conference/hotedge18).
 * June 28-30, 2017: I attended the COMPAS held in Sophia-Antipolis, France and I gave a [talk].
 * April 29, 2017: A paper was accepted in the [Conférence d’informatique en Parallélisme, Architecture et Système](https://compas2017.sciencesconf.org/)(COMPAS).
 * October 7, 2017: A paper titled "Resource Elasticity for Distributed Data Stream Processing: A Survey and Future Directions" was accepted at [Journal of Network and Computer Applications](https://www.journals.elsevier.com/journal-of-network-and-computer-applications).
 * July 27-30, 2015: I attended the 21st International Conference on Parallel, and Distributed Processing Techniques and Applications held in Las Vegas, Nevada, US and I gave a [talk]
-* April 30, 2015: A paper titled "BSPonP2P: Towards Running Bulk-Synchronous Parallel Applications on P2P Desktop Grids" was accepted at [International Conference on Parallel and Distributed Processing Techniques and Applications](http://www.worldacademyofscience.org/worldcomp15/ws/conferences/pdpta15).
+* April 30, 2015: A paper entitled "BSPonP2P: Towards Running Bulk-Synchronous Parallel Applications on P2P Desktop Grids" was accepted at [International Conference on Parallel and Distributed Processing Techniques and Applications](http://www.worldacademyofscience.org/worldcomp15/ws/conferences/pdpta15).
 
 

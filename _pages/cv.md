@@ -12,19 +12,17 @@ Education
 ======
 * B.S. in Computer Science, FEEVALE University, 2012
 * M.S. in Computer Science, Unisinos University, 2014
-* Ph.D in Algorithms for Big Data Streams Analytics, ENS-Lyon, 2019 (expected)
+* Ph.D in Algorithms for Big Data Streams Analytics, ENS-Lyon, 2019
 
 Work experience
 ======
 2016: École normale supérieure de Lyon
 * Ph.D. Student
 	
-2003-2016 Altero Design
+2003-2015 Altero Design
 * IT Manager
-* Software Architect
-* ABAP Developer
-* Delphi Developer
-* Process Analyst
+* Software Developer and Analyst
+* Assistant of the Quality Management
   
 Skills
 ======
