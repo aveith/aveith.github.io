@@ -23,7 +23,6 @@ redirect_from:
 * [Here](http://aveith.github.io/files/research_statement.pdf) you can find my research statement.
 
 # Research Activities
-
 * **2016 - 2019**: Ph.D. in Computer Science.
   * **Title**: Algorithms for big data analytics. [Thesis here](http://aveith.github.io/files/thesis.pdf)
   * **Advisors**: [Marcos Dias de Assunção](http://www.marcosassuncao.me/) and [Laurent Lefèvre](https://perso.ens-lyon.fr/laurent.lefevre/).
