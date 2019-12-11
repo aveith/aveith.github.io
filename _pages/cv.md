@@ -16,6 +16,9 @@ Education
 
 Work experience
 ======
+2019-present: University of Toronto
+* Postdoctoral Fellow
+
 2016-2019: École normale supérieure de Lyon
 * Ph.D. Student
 	

@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Alexandre DA SILVA VEITH"
   avatar           : "alexandreveith.png"
-  bio              : "Postdoctoral Fellow at the University of Toronto"
-  location         : "Toronto, Ontario M5S 2E4"
-  employer         : "University of Toronto"
+  bio              : ""
+  location         : ""
+  employer         : ""
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ZrkbeCQAAAAJ&hl=en"
   email            : "alexandre.veith@ens-lyon.fr"

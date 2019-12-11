@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+* I am a Postdoctoral Fellow in the [Department of Computer Science](http://www.cs.toronto.edu/) at the [University of Toronto](http://www.toronto.edu/). [[Curriculum Vitae]](http://aveith.github.io/files/AlexandreVeith-CV.pdf).
 * I work on placement and optimisation problems.
 * I like to code.
 * I am self-motivated.
@@ -23,6 +24,12 @@ redirect_from:
 * [Here](http://aveith.github.io/files/research_statement.pdf) you can find my research statement.
 
 # Research Activities
+* **2019 - present**: Postdoctoral Fellow in the Departament of Computer Science.
+  * **Leader**: [Professor Eyal de Lara](http://www.cs.toronto.edu/~delara/).
+  * **Hosting team**: [Computer Systems and Networks Group](http://csng.cs.toronto.edu/) in [Department of Computer Science](http://www.cs.toronto.edu/) at the [University of Toronto](http://www.toronto.edu/).
+  * **Description**: Distributed Stream Processing (DSP) applications are increasingly used in new pervasive services that process enormous amounts of data in a seamless and near real-time fashion. Edge computing has emerged as a means to minimise the time to handle events by enabling processing (i.e., operators) to be offloaded from the Cloud to the edges of the Internet, where the data is often generated. Deciding where to execute such operations (i.e., edge or cloud) during application deployment or at runtime is not a trivial problem. One of my goals is to improve performance metrics by introducing mechanisms for deploying DSP applications across Cloud and edge resources. I also participate in the research projects of [Professor Eyal de Lara](http://www.cs.toronto.edu/~delara/).
+ 
+
 * **2016 - 2019**: Ph.D. in Computer Science.
   * **Title**: Algorithms for big data analytics. [Thesis here](http://aveith.github.io/files/thesis.pdf)
   * **Advisors**: [Marcos Dias de Assunção](http://www.marcosassuncao.me/) and [Laurent Lefèvre](https://perso.ens-lyon.fr/laurent.lefevre/).
