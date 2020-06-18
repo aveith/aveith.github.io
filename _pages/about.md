@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 * I am a Postdoctoral Fellow in the [Department of Computer Science](http://www.cs.toronto.edu/) at the [University of Toronto](http://www.toronto.edu/). [[Curriculum Vitae]](http://aveith.github.io/files/AlexandreVeith-CV.pdf).
-* I work on placement and optimisation problems.
+* I work on (re)configuration and optimisation problems.
 * I like to code.
 * I am self-motivated.
 
@@ -20,6 +20,7 @@ redirect_from:
 * (Near) Real-time solutions for big data analytics.
 * Machine Learning (ML) and Reinforcement Learning (RL).
 * Cloud, Edge and Fog computing.
+* Federated Learning and Transfer Learning.
 * Internet of Things (IoT) issues.
 * [Here](http://aveith.github.io/files/research_statement.pdf) you can find my research statement.
 
@@ -43,15 +44,16 @@ redirect_from:
   * **Hosting team**: [Departament of Applied Computing](http://www.unisinos.br/global/en/prospective-student/graduate/applied-computing) at [UNISINOS University](http://www.unisinos.br/global/en).
 
 # Program committees
-* PC member of **ICPP 2020**.
+* PC member of **ICPP 2020**, and **InterCloud-HPC 2020**.
 
 # Other paper reviews
-* Review for **CCGrid 2017**, **IEEE Globecom 2017**, and **IEEE Globecom 2018**.
+* Review for **CCGrid 2017**, **IEEE Globecom 2017**, **ACM Transactions on Autonomous and Adaptive Systems** and **IEEE Globecom 2018**.
 
 # Volunteer Organiser
 * **SBAC-PAD 2018**.
 
 # Recent News
+* June 17, 2020: I was invited to be a PC member of [InterCloud-HPC 2020](http://conf.cisedu.info/rp/hpcs20/2-conference/symposia-hpcs2020/symp01-intercloudhpc).
 * September 23, 2019: Ph.D. defense [talk] entitled "Quality of Service Aware Mechanisms for (Re)Configuring Data Stream Processing Applications on Highly Distributed Infrastructure".
 * August 30, 2019: I was invited to be a PC member of ICPP 2020.
 * August 21-23, 2019: I visited the University of Toronto and I also gave a talk [talk].

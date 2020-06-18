@@ -1,5 +1,5 @@
 ---
-title: "Distributed Operator Placement for IoT Data Analytics Across Edge and Cloud Resources"
+title: "[Distributed Operator Placement for IoT Data Analytics Across Edge and Cloud Resources](https://ieeexplore.ieee.org/document/8752924)"
 collection: publications
 permalink: /publications/ccgrid2019
 venue: "CCGrid 2019"
