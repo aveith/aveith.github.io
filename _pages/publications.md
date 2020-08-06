@@ -9,6 +9,9 @@ author_profile: true
 Dias de Assunção, Marcos; <b>da Silva Veith, Alexandre</b>; Buyya, Rajkumar. <i>Journal of Network and Computer Applications</i>. <b>JNCA 2018</b>.
 
 ## International Conferences
+<b>[Scalable Joint Optimization of Placement and Parallelism of Data Stream Processing Applications on Cloud-Edge Infrastructure]({% include base_path %}sbac2019)</b><br>
+de Souza, Felipe Rodrigo; <b>da Silva Veith, Alexandre</b>; de Assunção, Marcos Dias; Caron, Eddy. <i>18th International Conference on Service-Oriented Computing</i>. <b>ICSOC 2020</b>.
+
 <b>[Monte-Carlo Tree Search and Reinforcement Learning for Reconfiguring Data Stream Processing on Edge Computing]({% include base_path %}sbac2019)</b><br>
 <b>da Silva Veith, Alexandre</b>; Dias de Assunção, Marcos; Lefèvre, Laurent. <i>International Symposium on Computer Architecture and High Performance Computing</i>. <b>SBAC-PAD 2019</b>.
 
