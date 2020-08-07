@@ -53,7 +53,7 @@ redirect_from:
 * **SBAC-PAD 2018**.
 
 # Recent News
-* July 6, 2020: A paper titled "An Optimal Model for Optimizing the Placement and Parallelism of Data Stream Processing Applications on Cloud-Edge Computing" was accepted at [The International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2020)](http://sbac-pad.facom.ufms.br/).
+* July 6, 2020: A paper titled "An Optimal Model for Optimizing the Placement and Parallelism of Data Stream Processing Applications on Cloud-Edge Computing" was accepted at [The International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2020)](https://sbac2020.dcc.fc.up.pt/).
 * July 6, 2020: A paper titled "Scalable Joint Optimization of Placement and Parallelism of Data Stream Processing Applications on Cloud-Edge Infrastructure" was accepted at the [International Conference on Service Oriented Computing (ICSOC 2020)](http://www.icsoc.org/)(ICSOC).
 * July, 2020: I was invited to be a PC member of [ACM/IEEE Symposium on Edge Computing](https://acm-ieee-sec.org/2020/).
 * June 17, 2020: I was invited to be a PC member of [InterCloud-HPC 2020](http://conf.cisedu.info/rp/hpcs20/2-conference/symposia-hpcs2020/symp01-intercloudhpc).
@@ -64,7 +64,7 @@ redirect_from:
 * August 5, 2019: I attended the 48th International Conference on Parallel Processing and I gave a [talk].
 * May 21, 2019: A paper entitled "Multi-Objective Reinforcement Learning for Reconfiguring Data Stream Analytics on Edge Computing" was accepted at [48th International Conference on Parallel Processing](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/) (ICPP).
 * May 17, 2019: I attended the 19th Annual IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing held in Larnaca, Cyprus and I gave a [talk].
-* February 16, 2019: A paper entitled "Distributed Operator Placement for IoT Data Analytics Across Edge and Cloud Resources" was accepted at [IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing (CCGrid 2019)](https://www.ccgrid2019.org/index.html).
+* February 16, 2019: A paper entitled "Distributed Operator Placement for IoT Data Analytics Across Edge and Cloud Resources" was accepted at [IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing (CCGrid 2019)](https://ieeexplore.ieee.org/document/8752924).
 * November 12-15, 2018: I attended the 16th International Conference on Service Oriented Computing held in Hangzhou, Zhejiang, China and I gave a [talk].
 * July 23, 2018: A paper entitled "Latency-Aware Placement of Data Stream Analytics on Edge Computing" was accepted at [International Conference on Service Oriented Computing](http://www.icsoc.org/) (ICSOC).
 * July 10, 2018: I attended the USENIX Workshop on Hot Topics in Edge Computing held in Boston, MA, USA.
