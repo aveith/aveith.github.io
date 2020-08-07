@@ -1,7 +1,7 @@
 ---
 title: "[Scalable Joint Optimization of Placement and Parallelism of Data Stream Processing Applications on Cloud-Edge Infrastructure]()"
 collection: publications
-permalink: /publications/icsoc202020
+permalink: /publications/icsoc2020
 venue: "ICSOC 2020"
 date: 2020-8-6
 citation: 'de Souza, Felipe Rodrigo; <b>da Silva Veith, Alexandre</b>; de Assunção, Marcos Dias; Caron, Eddy'
