@@ -725,6 +725,29 @@ Publications
  </article>
 </div>
 
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="https://aveith.github.io/publications/sbac2020" rel="permalink"><a href="">An Optimal Model for Optimizing the Placement and Parallelism of Data Stream Processing Applications on Cloud-Edge Computing</a>
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">de Souza, Felipe Rodrigo; <b>da Silva Veith, Alexandre</b>; Dias de Assunção, Marcos; Caron, Eddy</p> 
+    </li>
+ </article>
+</div>
+
   </ul>
   
 Talks

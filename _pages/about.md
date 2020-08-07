@@ -53,7 +53,8 @@ redirect_from:
 * **SBAC-PAD 2018**.
 
 # Recent News
-* July 6, 2020: A paper titled "Scalable Joint Optimization of Placement and Parallelism of Data Stream Processing Applications on Cloud-Edge Infrastructure" was accepted in the [International Conference on Service Oriented Computing (ICSOC 2020)](http://www.icsoc.org/)(ICSOC).
+* July 6, 2020: A paper titled "An Optimal Model for Optimizing the Placement and Parallelism of Data Stream Processing Applications on Cloud-Edge Computing" was accepted at [The International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2020)](http://sbac-pad.facom.ufms.br/).
+* July 6, 2020: A paper titled "Scalable Joint Optimization of Placement and Parallelism of Data Stream Processing Applications on Cloud-Edge Infrastructure" was accepted at the [International Conference on Service Oriented Computing (ICSOC 2020)](http://www.icsoc.org/)(ICSOC).
 * July, 2020: I was invited to be a PC member of [ACM/IEEE Symposium on Edge Computing](https://acm-ieee-sec.org/2020/).
 * June 17, 2020: I was invited to be a PC member of [InterCloud-HPC 2020](http://conf.cisedu.info/rp/hpcs20/2-conference/symposia-hpcs2020/symp01-intercloudhpc).
 * September 23, 2019: Ph.D. defense [talk] entitled "Quality of Service Aware Mechanisms for (Re)Configuring Data Stream Processing Applications on Highly Distributed Infrastructure".
@@ -70,7 +71,7 @@ redirect_from:
 * June 23, 2018: A poster entitled "Latency-Aware Strategies for Placing Data Stream Analytics onto Edge Computing" was accepted at [USENIX Workshop on Hot Topics in Edge Computing (HotEdge '18)](https://www.usenix.org/conference/hotedge18).
 * June 28-30, 2017: I attended the COMPAS held in Sophia-Antipolis, France and I gave a [talk].
 * April 29, 2017: A paper was accepted in the [Conférence d’informatique en Parallélisme, Architecture et Système](https://compas2017.sciencesconf.org/)(COMPAS).
-* October 7, 2017: A paper titled "Resource Elasticity for Distributed Data Stream Processing: A Survey and Future Directions" was accepted in the [Journal of Network and Computer Applications](https://www.journals.elsevier.com/journal-of-network-and-computer-applications).
+* October 7, 2017: A paper titled "Resource Elasticity for Distributed Data Stream Processing: A Survey and Future Directions" was accepted at the [Journal of Network and Computer Applications](https://www.journals.elsevier.com/journal-of-network-and-computer-applications).
 * July 27-30, 2015: I attended the 21st International Conference on Parallel, and Distributed Processing Techniques and Applications held in Las Vegas, Nevada, US and I gave a [talk]
 * April 30, 2015: A paper entitled "BSPonP2P: Towards Running Bulk-Synchronous Parallel Applications on P2P Desktop Grids" was accepted at [International Conference on Parallel and Distributed Processing Techniques and Applications](http://www.worldacademyofscience.org/worldcomp15/ws/conferences/pdpta15).
 

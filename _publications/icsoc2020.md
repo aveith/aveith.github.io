@@ -6,7 +6,7 @@ venue: "ICSOC 2020"
 date: 2020-8-6
 citation: 'de Souza, Felipe Rodrigo; <b>da Silva Veith, Alexandre</b>; de Assunção, Marcos Dias; Caron, Eddy'
 ---
-[[Paper]](http://aveith.github.io/files/icsoc2020.pdf) [[BIBTEX]]()
+[[Paper]](http://aveith.github.io/files/icsoc2020.pdf) [[BIBTEX]](http://aveith.github.io/files/icsoc2020.bib)
 
 
 
