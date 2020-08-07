@@ -22,7 +22,7 @@ de Souza, Felipe Rodrigo; <b>da Silva Veith, Alexandre</b>; de Assunção, Marco
 <b>da Silva Veith, Alexandre</b>; de Souza, Felipe Rodrigo; Dias de Assunção, Marcos; Lefèvre, Laurent; Santos dos Anjos, Julio Cesar. <i>48th International Conference on Parallel Processing</i>. <b>ICPP 2019</b>.
 
 <b>[Distributed Operator Placement for IoT Data Analytics Across Edge and Cloud Resources]({% include base_path %}ccgrid2019)</b><br>
-Gibert Renart, Eduard\*; <b>da Silva Veith, Alexandre</b>\*; Balouek-Thomert, Daniel; Dias de Assunção, Marcos; Lefèvre, Laurent. <i>19th Annual IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing</i>. <b>CCGrid 2019</b>.
+Gibert Renart, Eduard\*; <b>da Silva Veith, Alexandre</b>\*; Balouek-Thomert, Daniel; Dias de Assunção, Marcos; Lefèvre, Laurent; Parashar, Manish. <i>19th Annual IEEE/ACM International Symposium in Cluster, Cloud, and Grid Computing</i>. <b>CCGrid 2019</b>.
 
 <b>[Latency-Aware Placement of Data Stream Analytics on Edge Computing]({% include base_path %}icsoc2018)</b><br>
 <b>da Silva Veith, Alexandre</b>; Dias de Assunção, Marcos; Lefèvre, Laurent. <i>16th International Conference on Service-Oriented Computing</i>. <b>ICSOC 2018</b>.
