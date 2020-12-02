@@ -54,6 +54,7 @@ redirect_from:
 
 # Recent News
 * December 14, 2020: A paper titled "Scalable Joint Optimization of Placement and Parallelism of Data Stream Processing Applications on Cloud-Edge Infrastructure" was accepted at [International Conference on Service Oriented Computing (ICSOC 2020)](http://www.icsoc.org/).
+* December 2, 2020: A paper titled "Boosting Big Data Streaming Applications in Clouds with BurstFlow" was accepted at [IEEE Access](https://ieeeaccess.ieee.org/).
 * July 6, 2020: A paper titled "An Optimal Model for Optimizing the Placement and Parallelism of Data Stream Processing Applications on Cloud-Edge Computing" was accepted at [The International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2020)](https://sbac2020.dcc.fc.up.pt/).
 * July 6, 2020: A paper titled "Scalable Joint Optimization of Placement and Parallelism of Data Stream Processing Applications on Cloud-Edge Infrastructure" was accepted at the [International Conference on Service Oriented Computing (ICSOC 2020)](http://www.icsoc.org/)(ICSOC).
 * July, 2020: I was invited to be a PC member of [ACM/IEEE Symposium on Edge Computing](https://acm-ieee-sec.org/2020/).
