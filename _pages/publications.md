@@ -6,7 +6,7 @@ author_profile: true
 
 ## International Journals
 <b>[Boosting Big Data Streaming Applications in Clouds with BurstFlow]({% include base_path %}ieee_access2020)</b><br>
-De Souza Junior, Paulo R. R.; Matteussi, Kassiano J.; <b>da Silva Veith, Alexandre</b>; Zanchetta, Breno F.; R. Q. Leithardt, Valderi; Lozano M., Álvaro; P. de Freitas, Edison; dos Anjos, Julio C. S.; R. Geyer, Claudio F. <i>IEEE Access 2020</i> <b>TO APPEAR</b>.
+De Souza Junior, Paulo R. R.; Matteussi, Kassiano J.; <b>da Silva Veith, Alexandre</b>; Zanchetta, Breno F.; R. Q. Leithardt, Valderi; Lozano M., Álvaro; P. de Freitas, Edison; dos Anjos, Julio C. S.; R. Geyer, Claudio F. <b>IEEE Access 2020.</b> <b>TO APPEAR</b>.
 
 <b>[Distributed data stream processing and edge computing: A survey on resource elasticity and future directions]({% include base_path %}jnca2017)</b><br>
 Dias de Assunção, Marcos; <b>da Silva Veith, Alexandre</b>; Buyya, Rajkumar. <i>Journal of Network and Computer Applications</i>. <b>JNCA 2018</b>.
@@ -34,7 +34,7 @@ Gibert Renart, Eduard\*; <b>da Silva Veith, Alexandre</b>\*; Balouek-Thomert, Da
 C. S. Anjos, Julio; Matteussi, Kassiano; R. R. De Souza Jr, Paulo; <b>da Silva Veith, Alexandre</b>; Fedak, Gilles; Luis Victoria Barbosa, Jorge and R. Geyer, Claudio. <i>The 2018 International Conference on High Performance Computing & Simulation</i>. <b>HPCS 2018</b>.
 
 <b>[Aten: A Dispatcher for Big Data Applications in Heterogeneous Systems]({% include base_path %}hpcs2018_0)</b><br>
-R. R. De Souza Jr, Paulo; Matteussi, Kassiano; <b>da Silva Veith, Alexandre</b>; C. S. Anjos, Julio; D. D. dos Santos, Jobe and R. Geyer, Claudio. <i>The 2018 International Conference on High Performance Computing & Simulation</i>. <b>HPCS 2018</b>.
+R. R. De Souza Jr, Paulo; Matteussi, Kassiano; C. S. Anjos, Julio; D. D. dos Santos, Jobe and R. Geyer, Claudio; <b>da Silva Veith, Alexandre</b>. <i>The 2018 International Conference on High Performance Computing & Simulation</i>. <b>HPCS 2018</b>.
 
 <b>[Strategies for big data analytics through lambda architectures in volatile environments]({% include base_path %}ifac2016)</b><br>
 <b>da Silva Veith, Alexandre</b>; dos Anjos, J. C.; de Freitas Pignaton, Edison; Lampoltshammer, Thomas J.; Geyer, Claudio.  <i>4th International Federation of Automatic Control Symposium on Telematics Applications</i>. <b>IFAC-TA 2016</b>.
