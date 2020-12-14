@@ -6,7 +6,7 @@ author_profile: true
 
 ## International Journals
 <b>[Boosting Big Data Streaming Applications in Clouds with BurstFlow]({% include base_path %}ieee_access2020)</b><br>
-De Souza Junior, Paulo R. R.; Matteussi, Kassiano J.; <b>da Silva Veith, Alexandre</b>; Zanchetta, Breno F.; R. Q. Leithardt, Valderi; Lozano M., Álvaro; P. de Freitas, Edison; dos Anjos, Julio C. S.; R. Geyer, Claudio F. <b>IEEE Access 2020.</b> <b>TO APPEAR</b>.
+De Souza Junior, Paulo R. R.; Matteussi, Kassiano J.; <b>da Silva Veith, Alexandre</b>; Zanchetta, Breno F.; R. Q. Leithardt, Valderi; Lozano M., Álvaro; P. de Freitas, Edison; dos Anjos, Julio C. S.; R. Geyer, Claudio F. <b>IEEE Access 2020.</b>
 
 <b>[Distributed data stream processing and edge computing: A survey on resource elasticity and future directions]({% include base_path %}jnca2017)</b><br>
 Dias de Assunção, Marcos; <b>da Silva Veith, Alexandre</b>; Buyya, Rajkumar. <i>Journal of Network and Computer Applications</i>. <b>JNCA 2018</b>.
