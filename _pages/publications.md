@@ -12,6 +12,9 @@ De Souza Junior, Paulo R. R.; Matteussi, Kassiano J.; <b>da Silva Veith, Alexand
 Dias de Assunção, Marcos; <b>da Silva Veith, Alexandre</b>; Buyya, Rajkumar. <i>Journal of Network and Computer Applications</i>. <b>JNCA 2018</b>.
 
 ## International Conferences
+<b>[Sustainable Computing on the Edge: A System Dynamics Perspective]({% include base_path %}hotmobile2021)</b><br>
+Ramprasad, Brian; <b>da Silva Veith, Alexandre</b>; Gable, Moshe; de Lara, Eyal. <i>22nd International Workshop on Mobile Computing Systems and Applications</i>. <b>HotMobile '21</b>.
+
 <b>[Scalable Joint Optimization of Placement and Parallelism of Data Stream Processing Applications on Cloud-Edge Infrastructure]({% include base_path %}icsoc2020)</b><br>
 de Souza, Felipe Rodrigo; <b>da Silva Veith, Alexandre</b>; de Assunção, Marcos Dias; Caron, Eddy. <i>18th International Conference on Service-Oriented Computing</i>. <b>ICSOC 2020</b>.
 
