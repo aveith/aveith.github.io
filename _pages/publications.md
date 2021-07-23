@@ -5,6 +5,9 @@ author_profile: true
 ---
 
 ## International Journals
+<b>[Latency-Aware Strategies for Deploying Data Stream Processing Applications on Large Cloud-Edge Infrastructure]({% include base_path %}tcc2021)</b><br>
+<b>da Silva Veith, Alexandre</b>; Dias de Assunção, Marcos; Lefèvre, Laurent. <i>IEEE Transactions on Cloud Computing</i>. <b>IEEE TCC 2021</b>.
+
 <b>[Boosting Big Data Streaming Applications in Clouds with BurstFlow]({% include base_path %}ieee_access2020)</b><br>
 De Souza Junior, Paulo R. R.; Matteussi, Kassiano J.; <b>da Silva Veith, Alexandre</b>; Zanchetta, Breno F.; R. Q. Leithardt, Valderi; Lozano M., Álvaro; P. de Freitas, Edison; dos Anjos, Julio C. S.; R. Geyer, Claudio F. <b>IEEE Access 2020.</b>
 

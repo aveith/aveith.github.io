@@ -53,6 +53,7 @@ redirect_from:
 * **SBAC-PAD 2018**.
 
 # Recent News
+* July 20, 2021: A paper titled "Latency-Aware Strategies for Deploying Data Stream Processing Applications on Large Cloud-Edge Infrastructure" was accepted at [IEEE Transactions on Cloud Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245519).
 * December 14, 2020: A paper titled "Scalable Joint Optimization of Placement and Parallelism of Data Stream Processing Applications on Cloud-Edge Infrastructure" was accepted at [International Conference on Service Oriented Computing (ICSOC 2020)](http://www.icsoc.org/).
 * December 2, 2020: A paper titled "Boosting Big Data Streaming Applications in Clouds with BurstFlow" was accepted at [IEEE Access](https://ieeeaccess.ieee.org/).
 * July 6, 2020: A paper titled "An Optimal Model for Optimizing the Placement and Parallelism of Data Stream Processing Applications on Cloud-Edge Computing" was accepted at [The International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2020)](https://sbac2020.dcc.fc.up.pt/).
