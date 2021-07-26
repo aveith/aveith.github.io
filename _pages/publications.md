@@ -64,6 +64,9 @@ da Rosa Righi, Rodrigo; <b>da Silva Veith, Alexandre</b>; Rodrigues, Vinicius Fa
 <b>da Silva Veith, Alexandre</b>; Dias de Assunção, Marcos. <i>Encyclopedia of Big Data Technologies</i>. <b>2018</b>.
 
 ## Posters
+<b>[Pain-o-vision, effortless pain management]({% include base_path %}mobisys2021)</b><br>
+Ramprasad, Brian; Chen, Hongkai; <b>da Silva Veith, Alexandre</b>; Truong, Khai; de Lara, Eyal. <i>Proceedings of the 19th Annual International Conference on Mobile Systems, Applications, and Services</i>. <b>MobiSys '21</b>.
+
 <b>[Latency-Aware Strategies for Placing Data Stream Analytics onto Edge Computing]({% include base_path %}hotedge2018)</b><br>
 <b>da Silva Veith, Alexandre</b>; Dias de Assuncao, Marcos; Lefevre, Laurent. <i>USENIX Workshop on Hot Topics in Edge Computing</i>. <b>HotEdge 2018</b>.
 
