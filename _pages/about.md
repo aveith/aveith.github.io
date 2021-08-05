@@ -47,7 +47,7 @@ redirect_from:
 * PC member of **ICPP 2020**, **InterCloud-HPC 2020**, and **ACM/IEEE Symposium on Edge Computing 2020**.
 
 # Other paper reviews
-* Review for **CCGrid 2017**, **IEEE Globecom 2017 and 2018**, **ACM Transactions on Autonomous and Adaptive Systems**, **IEEE Transactions on Cloud Computing**, and **Communications of the ACM**.
+* Review for **CCGrid 2017**, **IEEE Globecom 2017 and 2018**, **ACM Transactions on Autonomous and Adaptive Systems**, **IEEE Transactions on Cloud Computing**, **IEEE Transactions on Parallel and Distributed Systems**, **Information Sciences**, and **Communications of the ACM**.
 
 # Volunteer Organiser
 * **SBAC-PAD 2018**.
