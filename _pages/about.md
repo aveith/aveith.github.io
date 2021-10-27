@@ -44,7 +44,7 @@ redirect_from:
   * **Hosting team**: [Departament of Applied Computing](http://www.unisinos.br/global/en/prospective-student/graduate/applied-computing) at [UNISINOS University](http://www.unisinos.br/global/en).
 
 # Program committees
-* PC member of **ICPP 2020**, **InterCloud-HPC 2020**, and **ACM/IEEE Symposium on Edge Computing 2020**.
+* PC member of **ICFEC 2022**, **IEEE SmartComp 2022**, **ICPP 2020**, **InterCloud-HPC 2020**, and **ACM/IEEE Symposium on Edge Computing 2020**.
 
 # Other paper reviews
 * Review for **CCGrid 2017**, **IEEE Globecom 2017 and 2018**, **ACM Transactions on Autonomous and Adaptive Systems**, **IEEE Transactions on Cloud Computing**, **IEEE Transactions on Parallel and Distributed Systems**, **Information Sciences**, and **Communications of the ACM**.
@@ -53,6 +53,8 @@ redirect_from:
 * **SBAC-PAD 2018**.
 
 # Recent News
+* October 27, 2022: I was invited to be a PC member of IEEE SmartComp 2022.
+* October 26, 2022: I was invited to be a PC member of ICFEC 2022.
 * July 20, 2021: A paper titled "Latency-Aware Strategies for Deploying Data Stream Processing Applications on Large Cloud-Edge Infrastructure" was accepted at [IEEE Transactions on Cloud Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245519).
 * December 14, 2020: A paper titled "Scalable Joint Optimization of Placement and Parallelism of Data Stream Processing Applications on Cloud-Edge Infrastructure" was accepted at [International Conference on Service Oriented Computing (ICSOC 2020)](http://www.icsoc.org/).
 * December 2, 2020: A paper titled "Boosting Big Data Streaming Applications in Clouds with BurstFlow" was accepted at [IEEE Access](https://ieeeaccess.ieee.org/).
