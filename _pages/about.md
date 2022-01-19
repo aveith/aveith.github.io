@@ -47,7 +47,7 @@ redirect_from:
 * PC member of **CCGrid 2022**, **ICFEC 2022**, **IEEE SmartComp 2022**, **ICPP 2020**, **InterCloud-HPC 2020**, and **ACM/IEEE Symposium on Edge Computing 2020**.
 
 # Other paper reviews
-* Review for **CCGrid 2017**, **IEEE Globecom 2017 and 2018**, **ACM Transactions on Autonomous and Adaptive Systems**, **IEEE Transactions on Cloud Computing**, **IEEE Transactions on Parallel and Distributed Systems**, **Information Sciences**, and **Communications of the ACM**.
+* Review for **IEEE Transactions on Cloud Computing**, **IEEE Transactions on Parallel and Distributed Systems**, **Information Sciences**, **ACM Transactions on Autonomous and Adaptive Systems**, **Computing**, **Communications of the ACM**, **CCGrid 2017**, and **IEEE Globecom 2017 and 2018**,.
 
 # Volunteer Organiser
 * **SBAC-PAD 2018**.
