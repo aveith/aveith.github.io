@@ -44,7 +44,7 @@ redirect_from:
   * **Hosting team**: [Departament of Applied Computing](http://www.unisinos.br/global/en/prospective-student/graduate/applied-computing) at [UNISINOS University](http://www.unisinos.br/global/en).
 
 # Program committees
-* PC member of **CCGrid 2022**, **ICFEC 2022**, **IEEE SmartComp 2022**, **ICPP 2020**, **InterCloud-HPC 2020**, and **ACM/IEEE Symposium on Edge Computing 2020**.
+* PC member of **EuroDW 2022**, **CCGrid 2022**, **ICFEC 2022**, **IEEE SmartComp 2022**, **ICPP 2020**, **InterCloud-HPC 2020**, and **ACM/IEEE Symposium on Edge Computing 2020**.
 
 # Other paper reviews
 * Review for **IEEE Transactions on Cloud Computing**, **IEEE Transactions on Parallel and Distributed Systems**, **Information Sciences**, **ACM Transactions on Autonomous and Adaptive Systems**, **Computing**, **Communications of the ACM**, **CCGrid 2017**, and **IEEE Globecom 2017 and 2018**,.
@@ -53,6 +53,7 @@ redirect_from:
 * **SBAC-PAD 2018**.
 
 # Recent News
+* March 12, 2022: A paper titled "Combining DNN Partitioning and Early Exit" was accepted at [EdgeSys 2022](https://edge-sys.github.io/2022/index.html).
 * November 9, 2021: I was invited to be a PC member of CCGrid 2022.
 * November 4, 2021: I gave a seminar entitled "Data Stream Processing on the Edge" at McGill University.
 * October 27, 2021: I was invited to be a PC member of IEEE SmartComp 2022.
