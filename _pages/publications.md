@@ -15,6 +15,9 @@ De Souza Junior, Paulo R. R.; Matteussi, Kassiano J.; <b>da Silva Veith, Alexand
 Dias de Assunção, Marcos; <b>da Silva Veith, Alexandre</b>; Buyya, Rajkumar. <i>Journal of Network and Computer Applications</i>. <b>JNCA 2018</b>.
 
 ## International Conferences
+<b>[Combining DNN Partitioning and Early Wxit]({% include base_path %}edgesys2022)</b><br>
+Ebrahimi, Maryam; <b>da Silva Veith, Alexandre</b>; Gable, Moshe; de Lara, Eyal. <i>Proceedings of the 5th International Workshop on Edge Systems, Analytics and Networking</i>. <b>EdgeSys '22</b>.
+
 <b>[Sustainable Computing on the Edge: A System Dynamics Perspective]({% include base_path %}hotmobile2021)</b><br>
 Ramprasad, Brian; <b>da Silva Veith, Alexandre</b>; Gable, Moshe; de Lara, Eyal. <i>22nd International Workshop on Mobile Computing Systems and Applications</i>. <b>HotMobile '21</b>.
 
