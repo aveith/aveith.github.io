@@ -33,7 +33,7 @@ redirect_from:
 
 * **2016 - 2019**: Ph.D. in Computer Science.
   * **Title**: Algorithms for big data analytics. [Thesis here](http://aveith.github.io/files/thesis.pdf)
-  * **Advisors**: [Marcos Dias de Assunção](http://www.marcosassuncao.me/) and [Laurent Lefèvre](https://perso.ens-lyon.fr/laurent.lefevre/).
+  * **Advisors**: [Marcos Dias de Assunção](https://www.marcosassuncao.com/) and [Laurent Lefèvre](https://perso.ens-lyon.fr/laurent.lefevre/).
   * **Hosting team**: [AVALON-Team](https://avalon.ens-lyon.fr/) in [LIP](http://www.ens-lyon.fr/LIP/) at [ENS-Lyon](http://www.ens-lyon.fr/).
   * **Defense**: September 2019.
   * **Approach**: I worked on the subject "Algorithms for Elastic Big-Data Stream Analytics" where I developed QoS-aware mechanisms for (re)configuring data stream processing applications across edge and cloud resources. During my investigation, I introduced models and solutions for placing (near)real-time applications on heterogeneous infrastructures addressing single and multiple performance metrics. The techniques and methods covered by the research include: queueing theory, Markov Decision Process (MDP), Reinforcement Learning (RL), series-parallel graphs, Monte-Carlo Tree Search (MCTS), Temporal Difference Tree Search (TDTS), Q-learning and greedy algorithms.
