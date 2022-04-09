@@ -53,6 +53,7 @@ redirect_from:
 * **SBAC-PAD 2018**.
 
 # Recent News
+* April 5, 2022: A paper titled "Shepherd: Seamless Stream Processing on the Edge" was accepted at [SEC 2022](http://acm-ieee-sec.org/2022/).
 * March 12, 2022: A paper titled "Combining DNN Partitioning and Early Exit" was accepted at [EdgeSys 2022](https://edge-sys.github.io/2022/index.html).
 * November 9, 2021: I was invited to be a PC member of CCGrid 2022.
 * November 4, 2021: I gave a seminar entitled "Data Stream Processing on the Edge" at McGill University.

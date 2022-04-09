@@ -19,7 +19,7 @@
 
 
 
-<title>Combining DNN partitioning and early exit - Alexandre DA SILVA VEITH</title>
+<title>Shepherd: Seamless Stream Processing on the Edge - Alexandre DA SILVA VEITH</title>
 
 
 
@@ -29,11 +29,11 @@
 
 <meta property="og:locale" content="en-US">
 <meta property="og:site_name" content="Alexandre DA SILVA VEITH">
-<meta property="og:title" content="Combining DNN partitioning and early exit">
+<meta property="og:title" content="Shepherd: Seamless Stream Processing on the Edge">
 
 
-  <link rel="canonical" href="https://aveith.github.io/publications/edgesys2022">
-  <meta property="og:url" content="https://aveith.github.io/publications/edgesys2022">
+  <link rel="canonical" href="https://aveith.github.io/publications/sec2022">
+  <meta property="og:url" content="https://aveith.github.io/publications/sec2022">
 
 
 
@@ -52,7 +52,7 @@
 
 
   <meta property="og:type" content="article">
-  <meta property="article:published_time" content="2022-04-04T00:00:00-07:00">
+  <meta property="article:published_time" content="2022-04-05T00:00:00-07:00">
 
 
 
@@ -265,36 +265,40 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Combining DNN partitioning and early exit">
+    <meta itemprop="headline" content="Shepherd: Seamless Stream Processing on the Edge">
     <meta itemprop="description" content="[Paper] [BIBTEX]">
-    <meta itemprop="datePublished" content="April 04, 2022">
+    <meta itemprop="datePublished" content="April 05, 2022">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline"><a href="https://dl.acm.org/doi/abs/10.1145/3517206.3526270">Combining DNN partitioning and early exit</a>
+          <h1 class="page__title" itemprop="headline"><a href="">Shepherd: Seamless Stream Processing on the Edge</a>
 </h1>
           
         
         
         
-          <p>Published in <i>EdgeSys '22: Proceedings of the 5th International Workshop on Edge Systems, Analytics and Networking</i>, 2022 </p>
+          <p>Published in <i>The Seventh ACM/IEEE Symposium on Edge Computing</i>, 2022 </p>
         
         
              
         
-          <p>Recommended citation: Ebrahimi, Maryam; <b>da Silva Veith, Alexandre</b>; Gabel, Moshe; de Lara, Eyal. </p>
+          <p>Recommended citation: Ramprasad, Brian; Mishra, Pritish; Thiessen, Myles; Chen, Hongkai; <b>da Silva Veith, Alexandre</b>; Gable, Moshe; Balmau, Oana; Chow, Abelard; de Lara, Eyal </p>
         
     
         </header>
       
 
       <section class="page__content" itemprop="text">
-        <p><a href="http://aveith.github.io/files/edgesys2022.pdf">[Paper]</a> <a href="http://aveith.github.io/files/edgesys2022.bib">[BIBTEX]</a></p>
+        <p><a href="http://aveith.github.io/files/sec2022.pdf">[Paper]</a> <a href="http://aveith.github.io/files/sec2022.bib">[BIBTEX]</a></p>
 
 <h2 id="abstract">Abstract</h2>
-<p>DNN inference is time-consuming and resource hungry. Partitioning and early exit are ways to run DNNs efficiently on the edge. Partitioning balances the computation load on multiple servers, and early exit offers to quit the inference process sooner and save time. Usually, these two are considered separate steps with limited flexibility. This work combines partitioning and early exit and proposes a performance model to estimate both inference latency and accuracy. We use this performance model to offer the best partitioned/early exit DNN based on deployment information and user preferences. Our experiments show that the flexibility in number and position of partitioning points and placement on available devices plays an important role in deciding the best output. In the future, we plan to turn this work into a “one-click” system to train and optimize models for edge computing.</p>
+<p>Stream processing frameworks are a popular solution for handling computation in latency-sensitive applications. However, next generation applications such as augmented/virtual reality, autonomous driving, and Industry 4.0, have tighter latency constraints and produce much larger amounts of data. To address the real-time nature and high bandwidth usage of new applications, edge computing provides an extension to the cloud infrastructure through a hierarchy of datacenters located between the edge devices and the cloud.</p>
+
+<p>Using existing stream processing frameworks out-of-the-box in this hierarchy is not efficient, as they adopt a stop-the-world approach during reconfiguration. This approach can lead to stalls on the order of several minutes. While costly reconfiguration was not an issue in the cloud where these events are extremely rare, edge computing is a more dynamic environment, characterized by frequent reconfigurations.</p>
+
+<p>In this paper, we propose Shepherd, a new stream processing framework  for  edge computing. Shepherd minimizes downtime during application reconfiguration, with almost no impact on data processing latency. Our experiments show that, compared to Apache Storm, Shepherd reduces application downtime from several minutes to a few tens of milliseconds.</p>
 
         
       </section>
@@ -315,11 +319,11 @@
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?text=https://aveith.github.io/publications/edgesys2022" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=https://aveith.github.io/publications/sec2022" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https://aveith.github.io/publications/edgesys2022" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://aveith.github.io/publications/sec2022" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://aveith.github.io/publications/edgesys2022" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://aveith.github.io/publications/sec2022" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
       
@@ -327,12 +331,11 @@
 
   <nav class="pagination">
     
-      <a href="https://aveith.github.io/publications/tcc2021" class="pagination--pager" title="Latency-Aware Strategies for Deploying Data Stream Processing Applications on Large Cloud-Edge Infrastructure
+      <a href="https://aveith.github.io/publications/edgesys2022" class="pagination--pager" title="Combining DNN partitioning and early exit
 ">Previous</a>
     
     
-      <a href="https://aveith.github.io/publications/sec2022" class="pagination--pager" title="Shepherd: Seamless Stream Processing on the Edge
-">Next</a>
+      <a href="#" class="pagination--pager disabled">Next</a>
     
   </nav>
 
