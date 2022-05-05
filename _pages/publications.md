@@ -19,7 +19,7 @@ Dias de Assunção, Marcos; <b>da Silva Veith, Alexandre</b>; Buyya, Rajkumar. <
 Ramprasad, Brian; Mishra, Pritish; Thiessen, Myles; Chen, Hongkai; <b>da Silva Veith, Alexandre</b>; Gable, Moshe; Balmau, Oana; Chow, Abelard; de Lara, Eyal. <i>The Seventh ACM/IEEE Symposium on Edge Computing</i>. <b>SEC '22</b>.
 
 <b>[Combining DNN Partitioning and Early Exit]({% include base_path %}edgesys2022)</b><br>
-Ebrahimi, Maryam; <b>da Silva Veith, Alexandre</b>; Gable, Moshe; de Lara, Eyal. <i>Proceedings of the 5th International Workshop on Edge Systems, Analytics and Networking</i>. <b>EdgeSys '22</b>.
+Ebrahimi, Maryam; <b>da Silva Veith, Alexandre</b>; Gabel, Moshe; de Lara, Eyal. <i>Proceedings of the 5th International Workshop on Edge Systems, Analytics and Networking</i>. <b>EdgeSys '22</b>.
 
 <b>[Sustainable Computing on the Edge: A System Dynamics Perspective]({% include base_path %}hotmobile2021)</b><br>
 Ramprasad, Brian; <b>da Silva Veith, Alexandre</b>; Gable, Moshe; de Lara, Eyal. <i>The 22nd International Workshop on Mobile Computing Systems and Applications</i>. <b>HotMobile '21</b>.
