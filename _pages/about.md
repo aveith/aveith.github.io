@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Postdoctoral Fellow in the [Department of Computer Science](http://www.cs.toronto.edu/) at the [University of Toronto](http://www.toronto.edu/). [[Curriculum Vitae]](http://aveith.github.io/files/AlexandreVeith-CV.pdf).
-* I work on (re)configuration and optimisation problems.
+* I am a Senior Research Engineer Software and Data Systems (SDSR) Research Lab at the [Nokia Bell Labs] (https://www.bell-labs.com/#gref). [[Curriculum Vitae]](http://aveith.github.io/files/AlexandreVeith-CV.pdf).
+* I work on a wide-range of research topics on IoT, edge computing, cloud.
 * I like to code.
 * I am self-motivated.
 
@@ -19,13 +19,27 @@ redirect_from:
 * Mono- and multi-objective optimisation problems.
 * (Near) Real-time solutions for big data analytics.
 * Machine Learning (ML) and Reinforcement Learning (RL).
-* Cloud, Edge and Fog computing.
+* IoT, Cloud, Edge and Fog computing.
 * Federated Learning and Transfer Learning.
-* Internet of Things (IoT) issues.
-* [Here](http://aveith.github.io/files/research_statement.pdf) you can find my research statement.
+# * [Here](http://aveith.github.io/files/research_statement.pdf) you can find my research statement.
 
 # Research Activities
-* **2019 - present**: Postdoctoral Fellow in the Departament of Computer Science.
+* **2022 - present**: Senior Research Software Engineer.
+  * **Leader**: [Lieven Trappeniers] (https://www.bell-labs.com/about/researcher-profiles/lieventrappeniers/#gref).
+  * **Hosting team**: Federated Stream Processing in Software & Data Systems (SDSR) Research Lab at the [Nokia Bell Labs] (https://www.bell-labs.com/#gref).
+  * **Description**: A wide variety of applications in Industry 4.0, AR/VR, IoT, smart technologies, connected cars, among others, produce massive amounts of data that must be analyzed seamlessly and near real-time fashion. In such scenarios, systems must manage highly volatile, elastic, privacy, resilience, and demanding requirements by adjusting to skew workloads, failures, and so on without affecting SLAs such as throughput, end-to-end latency, cost, etc. Moreover, these systems must allow the interaction of multiple actors, from data marketplaces where data produced by sensors, cameras, monitoring systems, etc is offered per usage to a wide range of end-user applications running on a multi-tenant environment.
+Federated stream processing systems have emerged as a powerful tool to address these needs. These systems combine federation -- which assumes that multiple companies operate sites for providing data, computation, storage, and communication -- and distributed approach -- which corresponds to spreading computing and data across a network topology. 
+My research aims to answer questions like: 
+   - How to provide data lineage/provenance/sovereignty?
+   - How to orchestrate/mediate the utilization of multiple services, platforms (public, private, and hybrid), and data providers?
+   - How to achieve an elastic, scalable, seamless and low-cost execution environment?
+   - How to enhance stream processing applications by allowing users to define their needs related to resilience, privacy, and robustness?
+   - ...
+I am also working in research projects in the domains of distributed file systems, distributed storage systems, DNN partitioning, DNN early-exit, DNN placement, etc.
+
+.
+  
+* **2019 - 2022**: Postdoctoral Fellow in the Departament of Computer Science.
   * **Leader**: [Professor Eyal de Lara](http://www.cs.toronto.edu/~delara/).
   * **Hosting team**: [Computer Systems and Networks Group](http://csng.cs.toronto.edu/) in [Department of Computer Science](http://www.cs.toronto.edu/) at the [University of Toronto](http://www.toronto.edu/).
   * **Description**: Distributed Stream Processing (DSP) applications are increasingly used in new pervasive services that process enormous amounts of data in a seamless and near real-time fashion. Edge computing has emerged as a means to minimise the time to handle events by enabling processing (i.e., operators) to be offloaded from the Cloud to the edges of the Internet, where the data is often generated. Deciding where to execute such operations (i.e., edge or cloud) during application deployment or at runtime is not a trivial problem. One of my goals is to improve performance metrics by introducing mechanisms for deploying DSP applications across Cloud and edge resources. I also participate in the research projects of [Professor Eyal de Lara](http://www.cs.toronto.edu/~delara/).
@@ -53,6 +67,7 @@ redirect_from:
 * **SBAC-PAD 2018**.
 
 # Recent News
+* August 16, 2022: I started at Nokia Bell Labs (Antwerp, Belgium) as a Senior Research Software Engineer.
 * April 5, 2022: A paper titled "Shepherd: Seamless Stream Processing on the Edge" was accepted at [SEC 2022](http://acm-ieee-sec.org/2022/).
 * March 12, 2022: A paper titled "Combining DNN Partitioning and Early Exit" was accepted at [EdgeSys 2022](https://edge-sys.github.io/2022/index.html).
 * November 9, 2021: I was invited to be a PC member of CCGrid 2022.
