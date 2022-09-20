@@ -26,8 +26,7 @@ redirect_from:
 * **2022 - present**: Senior Research Software Engineer.
   * **Leader**: [Lieven Trappeniers] (https://www.bell-labs.com/about/researcher-profiles/lieventrappeniers/#gref).
   * **Hosting team**: Federated Stream Processing in Software & Data Systems (SDSR) Research Lab at the [Nokia Bell Labs] (https://www.bell-labs.com/#gref).
-  * **Description**: A wide variety of applications in Industry 4.0, AR/VR, IoT, smart technologies, connected cars, among others, produce massive amounts of data that must be analyzed seamlessly and near real-time fashion. In such scenarios, systems must manage highly volatile, elastic, privacy, resilience, and demanding requirements by adjusting to skew workloads, failures, and so on without affecting SLAs such as throughput, end-to-end latency, cost, etc. Moreover, these systems must allow the interaction of multiple actors, from data marketplaces where data produced by sensors, cameras, monitoring systems, etc is offered per usage to a wide range of end-user applications running on a multi-tenant environment.
-Federated stream processing systems have emerged as a powerful tool to address these needs. These systems combine federation -- which assumes that multiple companies operate sites for providing data, computation, storage, and communication -- and distributed approach -- which corresponds to spreading computing and data across a network topology. 
+  * **Description**: A wide variety of applications in Industry 4.0, AR/VR, IoT, smart technologies, connected cars, among others, produce massive amounts of data that must be analyzed seamlessly and near real-time fashion. In such scenarios, systems must manage highly volatile, elastic, privacy, resilience, and demanding requirements by adjusting to skew workloads, failures, and so on without affecting SLAs such as throughput, end-to-end latency, cost, etc. Moreover, these systems must allow the interaction of multiple actors, from data marketplaces where data produced by sensors, cameras, monitoring systems, etc is offered per usage to a wide range of end-user applications running on a multi-tenant environment. Federated stream processing systems have emerged as a powerful tool to address these needs. These systems combine federation -- which assumes that multiple companies operate sites for providing data, computation, storage, and communication -- and distributed approach -- which corresponds to spreading computing and data across a network topology. 
 My research aims to answer questions like: 
    * How to provide data lineage/provenance/sovereignty?
    * How to orchestrate/mediate the utilization of multiple services, platforms (public, private, and hybrid), and data providers?
@@ -36,7 +35,6 @@ My research aims to answer questions like:
    * ...
 I am also working in research projects in the domains of distributed file systems, distributed storage systems, DNN partitioning, DNN early-exit, DNN placement, etc.
 
-.
   
 * **2019 - 2022**: Postdoctoral Fellow in the Departament of Computer Science.
   * **Leader**: [Professor Eyal de Lara](http://www.cs.toronto.edu/~delara/).
