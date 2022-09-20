@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Senior Research Engineer Software and Data Systems (SDSR) Research Lab at the [Nokia Bell Labs] (https://www.bell-labs.com/#gref). [[Curriculum Vitae]](http://aveith.github.io/files/AlexandreVeith-CV.pdf).
+* I am a Senior Research Engineer Software and Data Systems (SDSR) Research Lab at the [Nokia Bell Labs](https://www.bell-labs.com/#gref). [[Curriculum Vitae]](http://aveith.github.io/files/AlexandreVeith-CV.pdf).
 * I work on a wide-range of research topics on IoT, edge computing, cloud.
 * I like to code.
 * I am self-motivated.
@@ -21,7 +21,6 @@ redirect_from:
 * Machine Learning (ML) and Reinforcement Learning (RL).
 * IoT, Cloud, Edge and Fog computing.
 * Federated Learning and Transfer Learning.
-# * [Here](http://aveith.github.io/files/research_statement.pdf) you can find my research statement.
 
 # Research Activities
 * **2022 - present**: Senior Research Software Engineer.
