@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Research Engineer Software and Data Systems (SDSR) Research Lab at the [Nokia Bell Labs](https://www.bell-labs.com/#gref). [[Curriculum Vitae]](http://aveith.github.io/files/AlexandreVeith-CV.pdf).
+* I am a Research Software Engineer in the Software and Data Systems (SDSR) Research Lab at [Nokia Bell Labs](https://www.bell-labs.com/#gref). [[Curriculum Vitae]](http://aveith.github.io/files/AlexandreVeith-CV.pdf).
 * I work on a wide-range of research topics on IoT, edge computing, cloud.
 * I like to code.
 * I am self-motivated.
@@ -23,7 +23,7 @@ redirect_from:
 * Federated Learning and Transfer Learning.
 
 # Research Activities
-* **2022 - present**: Senior Research Software Engineer.
+* **2022 - present**: Research Software Engineer.
   * **Leader**: [Lieven Trappeniers](https://www.bell-labs.com/about/researcher-profiles/lieventrappeniers/#gref).
   * **Hosting team**: Federated Stream Processing in Software & Data Systems (SDSR) Research Lab at the [Nokia Bell Labs](https://www.bell-labs.com/#gref).
   * **Description**: A wide variety of applications in Industry 4.0, AR/VR, IoT, smart technologies, connected cars, among others, produce massive amounts of data that must be analyzed seamlessly and near real-time fashion. In such scenarios, systems must manage highly volatile, elastic, privacy, resilience, and demanding requirements by adjusting to skew workloads, failures, and so on without affecting SLAs such as throughput, end-to-end latency, cost, etc. Moreover, these systems must allow the interaction of multiple actors, from data marketplaces where data produced by sensors, cameras, monitoring systems, etc is offered per usage to a wide range of end-user applications running on a multi-tenant environment. Federated stream processing systems have emerged as a powerful tool to address these needs. These systems combine federation -- which assumes that multiple companies operate sites for providing data, computation, storage, and communication -- and distributed approach -- which corresponds to spreading computing and data across a network topology. 
