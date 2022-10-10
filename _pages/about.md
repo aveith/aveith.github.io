@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Senior Research Engineer Software and Data Systems (SDSR) Research Lab at the [Nokia Bell Labs](https://www.bell-labs.com/#gref). [[Curriculum Vitae]](http://aveith.github.io/files/AlexandreVeith-CV.pdf).
+* I am a Research Engineer Software and Data Systems (SDSR) Research Lab at the [Nokia Bell Labs](https://www.bell-labs.com/#gref). [[Curriculum Vitae]](http://aveith.github.io/files/AlexandreVeith-CV.pdf).
 * I work on a wide-range of research topics on IoT, edge computing, cloud.
 * I like to code.
 * I am self-motivated.
@@ -55,7 +55,7 @@ I am also working in research projects in the domains of distributed file system
   * **Hosting team**: [Departament of Applied Computing](http://www.unisinos.br/global/en/prospective-student/graduate/applied-computing) at [UNISINOS University](http://www.unisinos.br/global/en).
 
 # Program committees
-* PC member of **EuroDW 2022**, **CCGrid 2022**, **ICFEC 2022**, **IEEE SmartComp 2022**, **ICPP 2020**, **InterCloud-HPC 2020**, and **ACM/IEEE Symposium on Edge Computing 2020**.
+* PC member of **ICDCS 2023**, **EuroDW 2022**, **CCGrid 2022**, **ICFEC 2022**, **IEEE SmartComp 2022**, **ICPP 2020**, **InterCloud-HPC 2020**, and **ACM/IEEE Symposium on Edge Computing 2020**.
 
 # Other paper reviews
 * Review for **IEEE Transactions on Cloud Computing**, **IEEE Transactions on Parallel and Distributed Systems**, **Information Sciences**, **ACM Transactions on Autonomous and Adaptive Systems**, **Computing**, **Communications of the ACM**, **CCGrid 2017**, and **IEEE Globecom 2017 and 2018**,.
@@ -64,6 +64,7 @@ I am also working in research projects in the domains of distributed file system
 * **SBAC-PAD 2018**.
 
 # Recent News
+* October 7, 2023: I was invited to be a PC member of ICDCS 2023.
 * August 16, 2022: I started at Nokia Bell Labs (Antwerp, Belgium) as a Senior Research Software Engineer.
 * April 5, 2022: A paper titled "Shepherd: Seamless Stream Processing on the Edge" was accepted at [SEC 2022](http://acm-ieee-sec.org/2022/).
 * March 12, 2022: A paper titled "Combining DNN Partitioning and Early Exit" was accepted at [EdgeSys 2022](https://edge-sys.github.io/2022/index.html).
