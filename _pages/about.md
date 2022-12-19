@@ -58,18 +58,20 @@ I am also working in research projects in the domains of distributed file system
 * **IC2E (Workshop)**.
 
 # Technnical Program Committees
-* **DEBS 2023**, **ICDCS 2023**, **EuroDW 2022**, **CCGrid 2022**, **ICFEC 2022**, **IEEE SmartComp 2022**, **ICPP 2020**, **InterCloud-HPC 2020**, and **ACM/IEEE Symposium on Edge Computing 2020**.
+* ***ICFEC 2023**, **IEEE SmartComp 2023**, *DEBS 2023**, **ICDCS 2023**, **EuroDW 2022**, **CCGrid 2022**, **ICFEC 2022**, **IEEE SmartComp 2022**, **ICPP 2020**, **InterCloud-HPC 2020**, and **ACM/IEEE Symposium on Edge Computing 2020**.
 
 # Journal Reviews
 * **IEEE Transactions on Cloud Computing**, **IEEE Transactions on Parallel and Distributed Systems**, **Information Sciences**, **ACM Transactions on Autonomous and Adaptive Systems**, **Computing**, and **Communications of the ACM**.
  
 # Other Reviews
-* **CCGrid 2017**, and **IEEE Globecom 2017 and 2018**,.
+* **CCGrid 2017**, and **IEEE Globecom 2017 and 2018**.
 
 # Volunteer Organiser
 * **SBAC-PAD 2018**.
 
 # Recent News
+* December 17, 2022: I was invited to join the TPC of SMARTCOMP 2023.
+* December 17, 2022: I was invited to join the TPC of ICFEC 2023.
 * November 14, 2022: I was invited to serve as a workshop chair at IC2E 2023.
 * October 20, 2022: I was invited to be a PC member of DEBS 2023.
 * October 7, 2022: I was invited to be a PC member of ICDCS 2023.
