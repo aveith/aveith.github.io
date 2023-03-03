@@ -57,7 +57,7 @@ da Rosa Righi, Rodrigo; <b>da Silva Veith, Alexandre</b>; Rodrigues, Vinicius Fa
 <b>[BSPonP2P: Towards Running Bulk-Synchronous Parallel Applications on P2P Desktop Grids]({% include base_path %}pdpta2015)</b><br>
 da Rosa Righi, Rodrigo; <b>da Silva Veith, Alexandre</b>; Rodrigues, Vinicius Facco; Rostirolla, Gustavo. <i>International Conference on Parallel and Distributed Processing Techniques and Applications</i>. <b>PDPTA 2015</b>.
 
-## Software Registration
+## Patents
 <b>[BSPonP2P: Collaborative Computing of BSP Applications in P2P Grids]({% include base_path %}inpi2015)</b><br>
 <b>da Silva Veith, Alexandre</b>; da Costa, Cristiano André; da Rosa Righi, Rodrigo. <i>National Institute of Industrial Property (The Brazilian Patent and Trademark Office)</i>. <b>INPI 2015</b>.
 

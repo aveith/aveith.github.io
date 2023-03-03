@@ -21,12 +21,13 @@ redirect_from:
 * Machine Learning (ML) and Reinforcement Learning (RL).
 * IoT, Cloud, Edge and Fog computing.
 * Federated Learning and Transfer Learning.
+* Digital Twins.
 
 # Research Activities
 * **2022 - present**: Research Software Engineer.
   * **Leader**: [Lieven Trappeniers](https://www.bell-labs.com/about/researcher-profiles/lieventrappeniers/#gref).
   * **Hosting team**: Federated Stream Processing in Software & Data Systems (SDSR) Research Lab at the [Nokia Bell Labs](https://www.bell-labs.com/#gref).
-  * **Description**: A wide variety of applications in Industry 4.0, AR/VR, IoT, smart technologies, connected cars, among others, produce massive amounts of data that must be analyzed seamlessly and near real-time fashion. In such scenarios, systems must manage highly volatile, elastic, privacy, resilience, and demanding requirements by adjusting to skew workloads, failures, and so on without affecting SLAs such as throughput, end-to-end latency, cost, etc. Moreover, these systems must allow the interaction of multiple actors, from data marketplaces where data produced by sensors, cameras, monitoring systems, etc is offered per usage to a wide range of end-user applications running on a multi-tenant environment. Federated stream processing systems have emerged as a powerful tool to address these needs. These systems combine federation -- which assumes that multiple companies operate sites for providing data, computation, storage, and communication -- and distributed approach -- which corresponds to spreading computing and data across a network topology. 
+  * **Description**: A wide variety of applications in Industry 4.0, AR/VR, IoT, smart technologies, connected cars, among others, produce massive amounts of data that must be analyzed seamlessly and near real-time fashion. In such scenarios, systems must handle strong computing and storage requirements, which change over time. This happens because in these scenarios the data generation is skewed, resources are prone to failures, network is unstable, etc. When any of these changes appeared in the system, it must adjust the deployment gracefully without affecting SLAs such as throughput, end-to-end latency, cost, etc. Additionally, these complex systems bring together the needs of multiple actors from data producers offering their data (e.g., sensors, cameras, monitoring systems) on a marketplace to a wide range of end-user applications running on a multi-tenant environment. Federated stream processing systems have emerged as a powerful tool to address these needs. These systems combine federation -- which assumes that multiple companies operate sites for providing data, computation, storage, and communication -- and distributed approach -- which corresponds to spreading computing and data across a network topology. 
 My research aims to answer questions like: 
    * How to provide data lineage/provenance/sovereignty?
    * How to orchestrate/mediate the utilization of multiple services, platforms (public, private, and hybrid), and data providers?
@@ -70,12 +71,13 @@ I am also working in research projects in the domains of distributed file system
 * **SBAC-PAD 2018**.
 
 # Recent News
+* February 10, 2023: I was invited to give a talk at UCLouvain - tile: "Computation and Storage Systems for the Edge".
 * December 17, 2022: I was invited to join the TPC of SMARTCOMP 2023.
 * December 17, 2022: I was invited to join the TPC of ICFEC 2023.
 * November 14, 2022: I was invited to serve as a workshop chair at IC2E 2023.
 * October 20, 2022: I was invited to be a PC member of DEBS 2023.
 * October 7, 2022: I was invited to be a PC member of ICDCS 2023.
-* August 16, 2022: I started at Nokia Bell Labs (Antwerp, Belgium) as a Senior Research Software Engineer.
+* August 16, 2022: I started at Nokia Bell Labs (Antwerp, Belgium) as a Research Software Engineer.
 * April 5, 2022: A paper titled "Shepherd: Seamless Stream Processing on the Edge" was accepted at [SEC 2022](http://acm-ieee-sec.org/2022/).
 * March 12, 2022: A paper titled "Combining DNN Partitioning and Early Exit" was accepted at [EdgeSys 2022](https://edge-sys.github.io/2022/index.html).
 * November 9, 2021: I was invited to be a PC member of CCGrid 2022.

@@ -16,7 +16,10 @@ Education
 
 Work experience
 ======
-2019-present: University of Toronto
+2022-present: Nokia Bell Labs
+* Research Software Engineer
+
+2019-2022: University of Toronto
 * Postdoctoral Fellow
 
 2016-2019: École normale supérieure de Lyon
@@ -39,6 +42,7 @@ Skills
 * Distributed Computing
 * High Performance Computing (HPC)
 * Big Data frameworks
+  * RabbitMQ
   * Apache Kafka
   * Mosquitto
   * Apache Flink
@@ -59,6 +63,7 @@ Skills
   * C++
   * Delphi
   * Python
+  * Javascript
 
 Publications
 ======

@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Alexandre DA SILVA VEITH"
   avatar           : "alexandreveith.png"
-  bio              : "Senior Research Software Engineer" # Postdoctoral Fellow at the University of Toronto
+  bio              : "Research Software Engineer" # Postdoctoral Fellow at the University of Toronto
   location         : "Antwerp, Belgium 2018"
   employer         : "Nokia Bell Labs"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ZrkbeCQAAAAJ&hl=en"
-  email            : "alexandre.veith@utoronto.ca"
+  email            : "alexandre.da_silva_veith@nokia-bell-labs.com"
   researchgate     : "https://www.researchgate.net/profile/Alexandre_Veith2?ev=hdr_xprf"
   uri              :
   bitbucket        : "{1be026b7-4fef-42d9-97b4-8407c535e037}"
