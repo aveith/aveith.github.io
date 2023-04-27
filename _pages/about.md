@@ -27,7 +27,7 @@ redirect_from:
 * **2022 - present**: Research Software Engineer.
   * **Leader**: [Lieven Trappeniers](https://www.bell-labs.com/about/researcher-profiles/lieventrappeniers/#gref).
   * **Hosting team**: Federated Stream Processing in Software & Data Systems (SDSR) Research Lab at the [Nokia Bell Labs](https://www.bell-labs.com/#gref).
-  * **Description**: A wide variety of applications in Industry 4.0, AR/VR, IoT, smart technologies, connected cars, among others, produce massive amounts of data that must be analyzed seamlessly and near real-time fashion. In such scenarios, systems must handle strong computing and storage requirements, which change over time. This happens because in these scenarios the data generation is skewed, resources are prone to failures, network is unstable, etc. When any of these changes appeared in the system, it must adjust the deployment gracefully without affecting SLAs such as throughput, end-to-end latency, cost, etc. Additionally, these complex systems bring together the needs of multiple actors from data producers offering their data (e.g., sensors, cameras, monitoring systems) on a marketplace to a wide range of end-user applications running on a multi-tenant environment. Federated stream processing systems have emerged as a powerful tool to address these needs. These systems combine federation -- which assumes that multiple companies operate sites for providing data, computation, storage, and communication -- and distributed approach -- which corresponds to spreading computing and data across a network topology. 
+  * **Description**: A wide variety of applications in Industry 4.0, AR/VR, IoT, smart technologies, connected cars, among others, produce massive amounts of data that must be analyzed seamlessly and in near real-time fashion. In such scenarios, systems must handle strong computing and storage requirements, which change over time. This happens because in these scenarios the data generation is skewed, resources are prone to failures, network is unstable, etc. When any of these changes appear in the system, it must adjust the deployment gracefully without affecting SLAs such as throughput, end-to-end latency, cost, etc. Additionally, these complex systems bring together the needs of multiple actors from data producers offering their data (e.g., sensors, cameras, monitoring systems) on a marketplace to a wide range of end-user applications running on a multi-tenant environment. Federated stream processing systems have emerged as a powerful tool to address these needs. These systems combine federation -- which assumes that multiple companies operate sites for providing data, computation, storage, and communication -- and distributed approach -- which corresponds to spreading computing and data across a network topology. 
 My research aims to answer questions like: 
    * How to provide data lineage/provenance/sovereignty?
    * How to orchestrate/mediate the utilization of multiple services, platforms (public, private, and hybrid), and data providers?
@@ -37,7 +37,7 @@ My research aims to answer questions like:
 I am also working in research projects in the domains of distributed file systems, distributed storage systems, DNN partitioning, DNN early-exit, DNN placement, etc.
 
   
-* **2019 - 2022**: Postdoctoral Fellow in the Departament of Computer Science.
+* **2019 - 2022**: Postdoctoral Fellow in the Department of Computer Science.
   * **Leader**: [Professor Eyal de Lara](http://www.cs.toronto.edu/~delara/).
   * **Hosting team**: [Computer Systems and Networks Group](http://csng.cs.toronto.edu/) in [Department of Computer Science](http://www.cs.toronto.edu/) at the [University of Toronto](http://www.toronto.edu/).
   * **Description**: Distributed Stream Processing (DSP) applications are increasingly used in new pervasive services that process enormous amounts of data in a seamless and near real-time fashion. Edge computing has emerged as a means to minimise the time to handle events by enabling processing (i.e., operators) to be offloaded from the Cloud to the edges of the Internet, where the data is often generated. Deciding where to execute such operations (i.e., edge or cloud) during application deployment or at runtime is not a trivial problem. One of my goals is to improve performance metrics by introducing mechanisms for deploying DSP applications across Cloud and edge resources. I also participate in the research projects of [Professor Eyal de Lara](http://www.cs.toronto.edu/~delara/).
@@ -51,7 +51,7 @@ I am also working in research projects in the domains of distributed file system
   * **Approach**: I worked on the subject "Algorithms for Elastic Big-Data Stream Analytics" where I developed QoS-aware mechanisms for (re)configuring data stream processing applications across edge and cloud resources. During my investigation, I introduced models and solutions for placing (near)real-time applications on heterogeneous infrastructures addressing single and multiple performance metrics. The techniques and methods covered by the research include: queueing theory, Markov Decision Process (MDP), Reinforcement Learning (RL), series-parallel graphs, Monte-Carlo Tree Search (MCTS), Temporal Difference Tree Search (TDTS), Q-learning and greedy algorithms.
 
 * **2012 - 2014**: M.Sc. in Computer Science. 
-  * **Subject**: Rescheduling and checkpointing as strategies to Bulk Synchornous Parallel (BSP) programs on P2P desktop grids.
+  * **Subject**: Rescheduling and checkpointing as strategies to Bulk Synchronous Parallel (BSP) programs on P2P desktop grids.
   * **Supervisor**: [Rodrigo da Rosa Righi](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4705414D4).
   * **Hosting team**: [Departament of Applied Computing](http://www.unisinos.br/global/en/prospective-student/graduate/applied-computing) at [UNISINOS University](http://www.unisinos.br/global/en).
 
@@ -73,7 +73,7 @@ I am also working in research projects in the domains of distributed file system
 # Recent News
 * April 20, 2023: I was invited to join the TPC of NetAISys '23.
 * April 4, 2023: I was invited to join the TPC of ACSOS 2023.
-* February 10, 2023: I was invited to give a talk at UCLouvain - title: "Computation and Storage Systems for the Edge".
+* February 10, 2023: I was invited to give a talk at UCLouvain - titled: "Computation and Storage Systems for the Edge".
 * December 17, 2022: I was invited to join the TPC of SMARTCOMP 2023.
 * December 17, 2022: I was invited to join the TPC of ICFEC 2023.
 * November 14, 2022: I was invited to serve as a workshop chair at IC2E 2023.
