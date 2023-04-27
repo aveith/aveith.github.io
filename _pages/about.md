@@ -14,7 +14,7 @@ redirect_from:
 * I am self-motivated.
 
 # Research Interests
-* Elasticity for data stream processing applications.
+* Elasticity and resilience for data stream processing applications.
 * Modelling distributed system behaviours.
 * Mono- and multi-objective optimisation problems.
 * (Near) Real-time solutions for big data analytics.
@@ -71,6 +71,8 @@ I am also working in research projects in the domains of distributed file system
 * **SBAC-PAD 2018**.
 
 # Recent News
+* April 20, 2023: I was invited to join the TPC of NetAISys '23.
+* April 4, 2023: I was invited to join the TPC of ACSOS 2023.
 * February 10, 2023: I was invited to give a talk at UCLouvain - title: "Computation and Storage Systems for the Edge".
 * December 17, 2022: I was invited to join the TPC of SMARTCOMP 2023.
 * December 17, 2022: I was invited to join the TPC of ICFEC 2023.
