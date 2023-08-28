@@ -55,6 +55,9 @@ I am also working in research projects in the domains of distributed file system
   * **Supervisor**: [Rodrigo da Rosa Righi](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4705414D4).
   * **Hosting team**: [Departament of Applied Computing](http://www.unisinos.br/global/en/prospective-student/graduate/applied-computing) at [UNISINOS University](http://www.unisinos.br/global/en).
 
+# Journal Review Boards
+* **TPDS**.
+
 # Chair
 * **IC2E (Workshop)**.
 
@@ -71,6 +74,7 @@ I am also working in research projects in the domains of distributed file system
 * **SBAC-PAD 2018**.
 
 # Recent News
+* August 18, 2023: I joined the [TPDS technical review board]{https://www.computer.org/csdl/journals/td/about/107377?title=Review%20Board&periodical=IEEE%20Transactions%20on%20Parallel%20and%20Distributed%20Systems}.
 * April 20, 2023: I was invited to join the TPC of NetAISys '23.
 * April 4, 2023: I was invited to join the TPC of ACSOS 2023.
 * February 10, 2023: I was invited to give a talk at UCLouvain - titled: "Computation and Storage Systems for the Edge".
