@@ -58,11 +58,11 @@ I am also working in research projects in the domains of distributed file system
 # Journal Review Boards
 * **TPDS**.
 
-# Chair
-* **IC2E (Workshop)**.
+# Organizing Committees
+* **IC2E (Industry Track)**, **IC2E (Workshop)**.
 
 # Technnical Program Committees
-* **NetAISys '23, ACSOS 2023, ICFEC 2023**, **IEEE SmartComp 2023**, **DEBS 2023**, **ICDCS 2023**, **EuroDW 2022**, **CCGrid 2022**, **ICFEC 2022**, **IEEE SmartComp 2022**, **ICPP 2020**, **InterCloud-HPC 2020**, and **ACM/IEEE Symposium on Edge Computing 2020**.
+* **ICPADS 2023**, **UCC'23**, **NetAISys '23, ACSOS 2023, ICFEC 2023**, **IEEE SmartComp 2023**, **DEBS 2023**, **ICDCS 2023**, **EuroDW 2022**, **CCGrid 2022**, **ICFEC 2022**, **IEEE SmartComp 2022**, **ICPP 2020**, **InterCloud-HPC 2020**, and **ACM/IEEE Symposium on Edge Computing 2020**.
 
 # Journal Reviews
 * **IEEE Transactions on Cloud Computing**, **IEEE Transactions on Parallel and Distributed Systems**, **Information Sciences**, **ACM Transactions on Autonomous and Adaptive Systems**, **Computing**, **Cybernetics and Systems**, and **Communications of the ACM**.
@@ -74,6 +74,9 @@ I am also working in research projects in the domains of distributed file system
 * **SBAC-PAD 2018**.
 
 # Recent News
+* September 20, 2023: I was invited to join the organizing committee (industry track) of IC2E 2024.
+* September 20, 2023: I was invited to join the TPC of ICPADS 2023.
+* August 20, 2023: I was invited to join the TPC of UCC 2023.
 * August 18, 2023: I joined the [TPDS technical review board](https://www.computer.org/csdl/journals/td/about/107377?title=Review%20Board&periodical=IEEE%20Transactions%20on%20Parallel%20and%20Distributed%20Systems).
 * April 20, 2023: I was invited to join the TPC of NetAISys '23.
 * April 4, 2023: I was invited to join the TPC of ACSOS 2023.
