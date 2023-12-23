@@ -15,6 +15,9 @@ De Souza Junior, Paulo R. R.; Matteussi, Kassiano J.; <b>da Silva Veith, Alexand
 Dias de Assunção, Marcos; <b>da Silva Veith, Alexandre</b>; Buyya, Rajkumar. <i>Journal of Network and Computer Applications</i>. <b>JNCA 2018</b>.
 
 ## International Conferences
+<b>[PORTEND: A Joint Performance Model for Partitioned Early-Exiting DNNs]({% include base_path %}icpads2023)</b><br>
+Ebrahimi, Maryam; <b>da Silva Veith, Alexandre</b>; Gabel, Moshe; de Lara, Eyal. <i>Proceedings of the 29th IEEE International Conference on Parallel and Distributed Systems</i>. <b>ICPADS 2023</b>.
+
 <b>[Shepherd: Seamless Stream Processing on the Edge]({% include base_path %}sec2022)</b><br>
 Ramprasad, Brian; Mishra, Pritish; Thiessen, Myles; Chen, Hongkai; <b>da Silva Veith, Alexandre</b>; Gable, Moshe; Balmau, Oana; Chow, Abelard; de Lara, Eyal. <i>The Seventh ACM/IEEE Symposium on Edge Computing</i>. <b>SEC '22</b>.
 
