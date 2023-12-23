@@ -62,10 +62,10 @@ I am also working in research projects in the domains of distributed file system
 * **IC2E 2024 (Industry Track)**, **IC2E 2023 (Workshop)**.
 
 # Technnical Program Committees
-* **ICPADS 2023**, **UCC'23**, **NetAISys '23, ACSOS 2023, ICFEC 2023**, **IEEE SmartComp 2023**, **DEBS 2023**, **ICDCS 2023**, **EuroDW 2022**, **CCGrid 2022**, **ICFEC 2022**, **IEEE SmartComp 2022**, **ICPP 2020**, **InterCloud-HPC 2020**, and **ACM/IEEE Symposium on Edge Computing 2020**.
+* **ICDCS 2024**, **ICFEC 2024**, **ICPADS 2023**, **UCC'23**, **NetAISys '23**, **ACSOS 2023**, **ICFEC 2023**, **IEEE SmartComp 2023**, **DEBS 2023**, **ICDCS 2023**, **EuroDW 2022**, **CCGrid 2022**, **ICFEC 2022**, **IEEE SmartComp 2022**, **ICPP 2020**, **InterCloud-HPC 2020**, and **ACM/IEEE Symposium on Edge Computing 2020**.
 
 # Journal Reviews
-* **IEEE Transactions on Cloud Computing**, **IEEE Transactions on Parallel and Distributed Systems**, **Information Sciences**, **ACM Transactions on Autonomous and Adaptive Systems**, **Computing**, **Cybernetics and Systems**, and **Communications of the ACM**.
+* **ACM Transactions on Parallel Computing**, **IEEE Transactions on Cloud Computing**, **IEEE Transactions on Parallel and Distributed Systems**, **Information Sciences**, **ACM Transactions on Autonomous and Adaptive Systems**, **Computing**, **Cybernetics and Systems**, and **Communications of the ACM**.
  
 # Other Reviews
 * **CCGrid 2017**, and **IEEE Globecom 2017 and 2018**.
@@ -74,6 +74,9 @@ I am also working in research projects in the domains of distributed file system
 * **SBAC-PAD 2018**.
 
 # Recent News
+* December 20, 2023: I attended the IEEE International Conference on Parallel and Distributed Systems (ICPADS 2023) in China and presented our accepted paper "PORTEND: A Joint Performance Model for Partitioned Early-Exiting DNNs." 
+* December 18, 2023: I was invited to join the TPC of ICDCS 2024. 
+* November 20, 2023: I was invited to join the TPC of ICFEC 2024.
 * October 27, 2023: A paper titled "PORTEND: A Joint Performance Model for Partitioned Early-Exiting DNNs" was accepted at [IEEE International Conference on Parallel and Distributed Systems (ICPADS 2023)](https://ieee-cybermatics.org/2023/icpads/).
 * September 20, 2023: I was invited to join the organizing committee (industry track) of IC2E 2024.
 * September 20, 2023: I was invited to join the TPC of ICPADS 2023.
