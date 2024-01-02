@@ -10,8 +10,6 @@ redirect_from:
 
 * I am a Research Software Engineer in the Software and Data Systems (SDSR) Research Lab at [Nokia Bell Labs](https://www.bell-labs.com/#gref). [[Curriculum Vitae]](http://aveith.github.io/files/AlexandreVeith-CV.pdf).
 * I work on a wide-range of research topics on IoT, edge computing, cloud.
-* I like to code.
-* I am self-motivated.
 
 # Research Interests
 * Elasticity and resilience for data stream processing applications.
