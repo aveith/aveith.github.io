@@ -21,6 +21,9 @@ redirect_from:
 * Federated Learning and Transfer Learning.
 * Digital Twins.
 
+# Open Job Positions
+* [Bell Labs Internship on resilience of stream processing systems on the edge-cloud continuum (PhD)](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2965/?utm_medium=jobshare)
+
 # Research Activities
 * **2022 - present**: Research Software Engineer.
   * **Leader**: [Lieven Trappeniers](https://www.bell-labs.com/about/researcher-profiles/lieventrappeniers/#gref).
@@ -60,7 +63,7 @@ I am also working in research projects in the domains of distributed file system
 * **IC2E 2024 (Industry Track)**, **IC2E 2023 (Workshop)**.
 
 # Technnical Program Committees
-* **ICDCS 2024**, **ICFEC 2024**, **ICPADS 2023**, **UCC'23**, **NetAISys '23**, **ACSOS 2023**, **ICFEC 2023**, **IEEE SmartComp 2023**, **DEBS 2023**, **ICDCS 2023**, **EuroDW 2022**, **CCGrid 2022**, **ICFEC 2022**, **IEEE SmartComp 2022**, **ICPP 2020**, **InterCloud-HPC 2020**, and **ACM/IEEE Symposium on Edge Computing 2020**.
+* **PAISE 2024**, **IEEE SmartComp 2024**, **ICDCS 2024**, **ICFEC 2024**, **ICPADS 2023**, **UCC'23**, **NetAISys '23**, **ACSOS 2023**, **ICFEC 2023**, **IEEE SmartComp 2023**, **DEBS 2023**, **ICDCS 2023**, **EuroDW 2022**, **CCGrid 2022**, **ICFEC 2022**, **IEEE SmartComp 2022**, **ICPP 2020**, **InterCloud-HPC 2020**, and **ACM/IEEE Symposium on Edge Computing 2020**.
 
 # Journal Reviews
 * **ACM Transactions on Parallel Computing**, **IEEE Transactions on Cloud Computing**, **IEEE Transactions on Parallel and Distributed Systems**, **Information Sciences**, **ACM Transactions on Autonomous and Adaptive Systems**, **Computing**, **Cybernetics and Systems**, and **Communications of the ACM**.
@@ -72,6 +75,8 @@ I am also working in research projects in the domains of distributed file system
 * **SBAC-PAD 2018**.
 
 # Recent News
+* January 05, 2024: I was invited to join the TPC of PAISE 2024.
+* January 02, 2024: I was invited to join the TPC of SMARTCOMP 2024.
 * December 20, 2023: I attended the IEEE International Conference on Parallel and Distributed Systems (ICPADS 2023) in China and presented our accepted paper "PORTEND: A Joint Performance Model for Partitioned Early-Exiting DNNs." 
 * December 18, 2023: I was invited to join the TPC of ICDCS 2024. 
 * November 20, 2023: I was invited to join the TPC of ICFEC 2024.
