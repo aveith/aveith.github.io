@@ -15,6 +15,9 @@ De Souza Junior, Paulo R. R.; Matteussi, Kassiano J.; <b>da Silva Veith, Alexand
 Dias de Assunção, Marcos; <b>da Silva Veith, Alexandre</b>; Buyya, Rajkumar. <i>Journal of Network and Computer Applications</i>. <b>JNCA 2018</b>.
 
 ## International Conferences
+<b>[PathFS: A File System for the Hierarchical Edge]({% include base_path %}edgesys2024)</b><br>
+Dantas de Lima Melo, Vinicius; Thiessen , Myles; Panas, Aleksey; <b>da Silva Veith, Alexandre</b>; Yano, Keijiro;  Balmau, Oana; de Lara, Eyal. <i>Proceedings of the 7th International Workshop on Edge Systems, Analytics and Networking</i>. <b>EdgeSys '24</b>.
+
 <b>[PORTEND: A Joint Performance Model for Partitioned Early-Exiting DNNs]({% include base_path %}icpads2023)</b><br>
 Ebrahimi, Maryam; <b>da Silva Veith, Alexandre</b>; Gabel, Moshe; de Lara, Eyal. <i>Proceedings of the 29th IEEE International Conference on Parallel and Distributed Systems</i>. <b>ICPADS 2023</b>.
 

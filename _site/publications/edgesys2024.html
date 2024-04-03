@@ -19,7 +19,7 @@
 
 
 
-<title>PORTEND: A Joint Performance Model for Partitioned Early-Exiting DNNs - Alexandre DA SILVA VEITH</title>
+<title>PathFS: A File System for the Hierarchical Edge - Alexandre DA SILVA VEITH</title>
 
 
 
@@ -29,11 +29,11 @@
 
 <meta property="og:locale" content="en-US">
 <meta property="og:site_name" content="Alexandre DA SILVA VEITH">
-<meta property="og:title" content="PORTEND: A Joint Performance Model for Partitioned Early-Exiting DNNs">
+<meta property="og:title" content="PathFS: A File System for the Hierarchical Edge">
 
 
-  <link rel="canonical" href="https://aveith.github.io/publications/icpads2023">
-  <meta property="og:url" content="https://aveith.github.io/publications/icpads2023">
+  <link rel="canonical" href="https://aveith.github.io/publications/edgesys2024">
+  <meta property="og:url" content="https://aveith.github.io/publications/edgesys2024">
 
 
 
@@ -52,7 +52,7 @@
 
 
   <meta property="og:type" content="article">
-  <meta property="article:published_time" content="2023-10-05T00:00:00-07:00">
+  <meta property="article:published_time" content="2024-04-04T00:00:00-07:00">
 
 
 
@@ -265,36 +265,39 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="PORTEND: A Joint Performance Model for Partitioned Early-Exiting DNNs">
+    <meta itemprop="headline" content="PathFS: A File System for the Hierarchical Edge">
     <meta itemprop="description" content="[Paper] [BIBTEX]">
-    <meta itemprop="datePublished" content="October 05, 2023">
+    <meta itemprop="datePublished" content="April 04, 2024">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline"><a href="">PORTEND: A Joint Performance Model for Partitioned Early-Exiting DNNs</a>
+          <h1 class="page__title" itemprop="headline"><a href="">PathFS: A File System for the Hierarchical Edge</a>
 </h1>
           
         
         
         
-          <p>Published in <i>The 29th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2023)</i>, 2023 </p>
+          <p>Published in <i>EdgeSys '24: Proceedings of the 7th International Workshop on Edge Systems, Analytics and Networking</i>, 2024 </p>
         
         
              
         
-          <p>Recommended citation: Ebrahimi, Maryam; <b>da Silva Veith, Alexandre</b>; Gabel, Moshe; de Lara, Eyal. </p>
+          <p>Recommended citation: Dantas de Lima Melo, Vinicius; Thiessen , Myles; Panas, Aleksey; <b>da Silva Veith, Alexandre</b>; Yano, Keijiro;  Balmau, Oana; de Lara, Eyal. </p>
         
     
         </header>
       
 
       <section class="page__content" itemprop="text">
-        <p><a href="http://aveith.github.io/files/icpads2023.pdf">[Paper]</a> <a href="http://aveith.github.io/files/icpads2023.bib">[BIBTEX]</a></p>
+        <p><a href="http://aveith.github.io/files/edgesys2024.pdf">[Paper]</a> <a href="http://aveith.github.io/files/edgesys2024.bib">[BIBTEX]</a></p>
 
 <h2 id="abstract">Abstract</h2>
-<p>The computation and storage requirements of Deep Neural Networks (DNNs) make them challenging to deploy on edge devices, which often have limited resources. Conversely, offloading DNNs to cloud servers incurs high communication overheads. Partitioning and early exiting are attractive solutions for reducing computational costs and improving inference speed. However, current work often addresses these approaches separately and/or ignores common communication intricacies on edge networks such as de(serialization) and data transmission overheads. We present PORTEND, a novel performance model that jointly optimizes partitioning, early exiting, and multi-tier network placement. PORTEND’S novel approach outperforms the state-of-the-art solutions in edge computing setups, reducing the DNN inference latency by 29%.</p>
+<p>As IoT devices multiply and produce vast volumes of data, there is a heightened demand for instantaneous data processing. However, traditional cloud computing cannot adequately address these demands due to its latency and bandwidth limitations. Edge computing has emerged as a viable alternative with a hierarchical deployment of datacenters. However, this introduces additional layers of infrastructure and management that increase application development complexity. Using a shared file system is an attractive method for enhancing communication between components in an edge computing application.</p>
+
+<p>In this paper we introduce PathFS, a shared file system designed for the hierarchical edge-cloud infrastructure. PathFS adopts a tree-like structure, with cloud datacenters at the root, edge datacenters as leaves, and a variable number of network datacenters in between. We evaluate PathFS through benchmarks on an emulated hierarchical edge deployment and compare it with NFS and ownCloud. The results show that PathFS offers lower latency than these systems by an order of magnitude, and scales to a larger number of concurrent clients without performance impacts, providing an end-to-end latency reduction of at least 80%.</p>
+
 
         
       </section>
@@ -315,11 +318,11 @@
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?text=https://aveith.github.io/publications/icpads2023" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=https://aveith.github.io/publications/edgesys2024" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https://aveith.github.io/publications/icpads2023" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://aveith.github.io/publications/edgesys2024" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://aveith.github.io/publications/icpads2023" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://aveith.github.io/publications/edgesys2024" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
       
@@ -327,12 +330,11 @@
 
   <nav class="pagination">
     
-      <a href="https://aveith.github.io/publications/sec2022" class="pagination--pager" title="Shepherd: Seamless Stream Processing on the Edge
+      <a href="https://aveith.github.io/publications/icpads2023" class="pagination--pager" title="PORTEND: A Joint Performance Model for Partitioned Early-Exiting DNNs
 ">Previous</a>
     
     
-      <a href="https://aveith.github.io/publications/edgesys2024" class="pagination--pager" title="PathFS: A File System for the Hierarchical Edge
-">Next</a>
+      <a href="#" class="pagination--pager disabled">Next</a>
     
   </nav>
 
