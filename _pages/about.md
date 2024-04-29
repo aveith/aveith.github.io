@@ -21,8 +21,6 @@ redirect_from:
 * Federated Learning and Transfer Learning.
 * Digital Twins.
 
-# Open Job Positions
-* [Bell Labs Internship on resilience of stream processing systems on the edge-cloud continuum (PhD)](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2965/?utm_medium=jobshare)
 
 # Research Activities
 * **2022 - present**: Research Software Engineer.
@@ -75,7 +73,7 @@ I am also working in research projects in the domains of distributed file system
 * **SBAC-PAD 2018**.
 
 # Recent News
-* March 27, 2024: A paper titled "PathFS: A File System for the Hierarchical Edge" was accepted at [ACM International Workshop on Edge Systems, Analytics and Networking (EdgeSyd 2024)](https://edge-sys.github.io/2024/accepted_papers.html).
+* March 27, 2024: A paper titled "PathFS: A File System for the Hierarchical Edge" was accepted at [ACM International Workshop on Edge Systems, Analytics and Networking (EdgeSys 2024)](https://edge-sys.github.io/2024/accepted_papers.html).
 * January 05, 2024: I was invited to join the TPC of PAISE 2024.
 * January 02, 2024: I was invited to join the TPC of SMARTCOMP 2024.
 * December 20, 2023: I attended the IEEE International Conference on Parallel and Distributed Systems (ICPADS 2023) in China and presented our accepted paper "PORTEND: A Joint Performance Model for Partitioned Early-Exiting DNNs." 

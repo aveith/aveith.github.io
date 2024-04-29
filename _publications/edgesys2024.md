@@ -1,5 +1,5 @@
 ---
-title: "[PathFS: A File System for the Hierarchical Edge]()"
+title: "[PathFS: A File System for the Hierarchical Edge](https://dl.acm.org/doi/10.1145/3642968.3654822)"
 collection: publications
 permalink: /publications/edgesys2024
 venue: "EdgeSys '24: Proceedings of the 7th International Workshop on Edge Systems, Analytics and Networking"
