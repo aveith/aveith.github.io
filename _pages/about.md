@@ -61,7 +61,7 @@ I am also working in research projects in the domains of distributed file system
 * **IC2E 2024 (Industry Track)**, **IC2E 2023 (Workshop)**.
 
 # Technnical Program Committees
-* **PAISE 2024**, **IEEE SmartComp 2024**, **ICDCS 2024**, **ICFEC 2024**, **ICPADS 2023**, **UCC'23**, **NetAISys '23**, **ACSOS 2023**, **ICFEC 2023**, **IEEE SmartComp 2023**, **DEBS 2023**, **ICDCS 2023**, **EuroDW 2022**, **CCGrid 2022**, **ICFEC 2022**, **IEEE SmartComp 2022**, **ICPP 2020**, **InterCloud-HPC 2020**, and **ACM/IEEE Symposium on Edge Computing 2020**.
+* **EuroSys 2025**, **UCC 2024**, **OPODIS 2024**, **IEEE SOCA 2024**, **PAISE 2024**, **IEEE SmartComp 2024**, **ICDCS 2024**, **ICFEC 2024**, **ICPADS 2023**, **UCC'23**, **NetAISys '23**, **ACSOS 2023**, **ICFEC 2023**, **IEEE SmartComp 2023**, **DEBS 2023**, **ICDCS 2023**, **EuroDW 2022**, **CCGrid 2022**, **ICFEC 2022**, **IEEE SmartComp 2022**, **ICPP 2020**, **InterCloud-HPC 2020**, and **ACM/IEEE Symposium on Edge Computing 2020**.
 
 # Journal Reviews
 * **ACM Transactions on Parallel Computing**, **IEEE Transactions on Cloud Computing**, **IEEE Transactions on Parallel and Distributed Systems**, **Information Sciences**, **ACM Transactions on Autonomous and Adaptive Systems**, **Computing**, **Cybernetics and Systems**, and **Communications of the ACM**.
@@ -73,6 +73,10 @@ I am also working in research projects in the domains of distributed file system
 * **SBAC-PAD 2018**.
 
 # Recent News
+* May 1, 2024: I was invited to join the TPC of EuroSys 2025.
+* April 30, 2024: I was invited to join the TPC of UCC 2024.
+* April 28, 2024: I was invited to join the TPC of IEEE OPODIS 2024.
+* April 28, 2024: I was invited to join the TPC of IEEE SOCA 2024.
 * March 27, 2024: A paper titled "PathFS: A File System for the Hierarchical Edge" was accepted at [ACM International Workshop on Edge Systems, Analytics and Networking (EdgeSys 2024)](https://edge-sys.github.io/2024/accepted_papers.html).
 * January 05, 2024: I was invited to join the TPC of PAISE 2024.
 * January 02, 2024: I was invited to join the TPC of SMARTCOMP 2024.
