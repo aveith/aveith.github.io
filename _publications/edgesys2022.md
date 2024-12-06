@@ -1,6 +1,7 @@
 ---
 title: "[Combining DNN partitioning and early exit](https://dl.acm.org/doi/abs/10.1145/3517206.3526270)"
 collection: publications
+category: conferences
 permalink: /publications/edgesys2022
 venue: "EdgeSys '22: Proceedings of the 5th International Workshop on Edge Systems, Analytics and Networking"
 date: 2022-04-04

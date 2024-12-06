@@ -1,6 +1,7 @@
 ---
 title: "[Scalable Joint Optimization of Placement and Parallelism of Data Stream Processing Applications on Cloud-Edge Infrastructure](https://link.springer.com/chapter/10.1007/978-3-030-65310-1_12)"
 collection: publications
+category: conferences
 permalink: /publications/icsoc2020
 venue: "ICSOC 2020"
 date: 2020-8-6

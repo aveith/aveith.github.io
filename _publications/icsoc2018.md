@@ -1,6 +1,7 @@
 ---
 title: "[Latency-Aware Placement of Data Stream Analytics on Edge Computing](https://link.springer.com/chapter/10.1007%2F978-3-030-03596-9_14)"
 collection: publications
+category: conferences
 permalink: /publications/icsoc2018
 venue: "ICSOC 2018"
 date: 2018-6-12

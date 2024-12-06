@@ -1,6 +1,7 @@
 ---
 title: "[PORTEND: A Joint Performance Model for Partitioned Early-Exiting DNNs](https://ieeexplore.ieee.org/document/10476024)"
 collection: publications
+category: conferences
 permalink: /publications/icpads2023
 venue: "The 29th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2023)"
 date: 2023-10-05

@@ -1,6 +1,7 @@
 ---
 title: "[Boosting Big Data Streaming Applications in Clouds with BurstFlow](https://ieeexplore.ieee.org/document/9281110)"
 collection: publications
+category: journals
 permalink: /publications/ieee_access2020
 venue: "IEEE Access 2020"
 date: 2020-12-02

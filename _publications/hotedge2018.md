@@ -1,6 +1,7 @@
 ---
 title: "Latency-Aware Strategies for Placing Data Stream Analytics onto Edge Computing"
 collection: publications
+category: conferences
 permalink: /publications/hotedge2018
 venue: "HotEdge 2018"
 date: 2018-6-12

@@ -1,6 +1,7 @@
 ---
 title: "[Sustainable Computing on the Edge: A System Dynamics Perspective](https://dl.acm.org/doi/abs/10.1145/3446382.3448607)"
 collection: publications
+category: conferences
 permalink: /publications/hotmobile2021
 venue: "HotMobile '21"
 date: 2021-02-26

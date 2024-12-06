@@ -1,6 +1,7 @@
 ---
 title: "Assessing the Impact of Network Bandwidth and Operator Placement on Data Stream Processing for Edge Computing Environments"
 collection: publications
+category: conferences
 permalink: /publications/compas2017
 venue: "COMPAS 2017"
 date: 2017-7-12

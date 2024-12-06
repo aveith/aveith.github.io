@@ -61,10 +61,10 @@ I am also working in research projects in the domains of distributed file system
 * **IC2E 2024 (Industry Track)**, **IC2E 2023 (Workshop)**.
 
 # Technnical Program Committees
-* **EuroSys 2025**, **UCC 2024**, **OPODIS 2024**, **IEEE SOCA 2024**, **PAISE 2024**, **IEEE SmartComp 2024**, **ICDCS 2024**, **ICFEC 2024**, **ICPADS 2023**, **UCC'23**, **NetAISys '23**, **ACSOS 2023**, **ICFEC 2023**, **IEEE SmartComp 2023**, **DEBS 2023**, **ICDCS 2023**, **EuroDW 2022**, **CCGrid 2022**, **ICFEC 2022**, **IEEE SmartComp 2022**, **ICPP 2020**, **InterCloud-HPC 2020**, and **ACM/IEEE Symposium on Edge Computing 2020**.
+* **ICFEC 2025**, **ICDCS 2025**, **ICSOC 2024**, **EuroSys 2025**, **UCC 2024**, **OPODIS 2024**, **IEEE SOCA 2024**, **PAISE 2024**, **IEEE SmartComp 2024**, **ICDCS 2024**, **ICFEC 2024**, **ICPADS 2023**, **UCC'23**, **NetAISys '23**, **ACSOS 2023**, **ICFEC 2023**, **IEEE SmartComp 2023**, **DEBS 2023**, **ICDCS 2023**, **EuroDW 2022**, **CCGrid 2022**, **ICFEC 2022**, **IEEE SmartComp 2022**, **ICPP 2020**, **InterCloud-HPC 2020**, and **ACM/IEEE Symposium on Edge Computing 2020**.
 
 # Journal Reviews
-* **ACM Transactions on Parallel Computing**, **IEEE Transactions on Cloud Computing**, **IEEE Transactions on Parallel and Distributed Systems**, **Information Sciences**, **ACM Transactions on Autonomous and Adaptive Systems**, **Computing**, **Cybernetics and Systems**, and **Communications of the ACM**.
+* **Journal of Parallel and Distributed Computing**, **Journal of Industrial Information Integration**, **Future Generation Computer Systems**, **Transactions on Computer Systems (TOCS)**, **Engineering Applications of Artificial Intelligence**, **ACM Transactions on Parallel Computing**, **IEEE Transactions on Cloud Computing**, **IEEE Transactions on Parallel and Distributed Systems**, **Information Sciences**, **ACM Transactions on Autonomous and Adaptive Systems**, **Computing**, **Cybernetics and Systems**, and **Communications of the ACM**.
  
 # Other Reviews
 * **CCGrid 2017**, and **IEEE Globecom 2017 and 2018**.
@@ -72,7 +72,12 @@ I am also working in research projects in the domains of distributed file system
 # Volunteer Organiser
 * **SBAC-PAD 2018**.
 
-# Recent News
+# Recent News 
+* December 6, 2024: Our paper titled "Falcon: Live Reconfiguration for Stateful Stream Processing on the Edge" received the **Best Paper Award** at [ACM/IEEE Symposium on Edge Computing (SEC 2024)](https://acm-ieee-sec.org/2024/index.php).
+* November 1, 2024: I was invited to join the TPC of ICFEC 2025.
+* September 24, 2024: A paper titled "Falcon: Live Reconfiguration for Stateful Stream Processing on the Edge" was accepted at [ACM/IEEE Symposium on Edge Computing (SEC 2024)](https://acm-ieee-sec.org/2024/index.php).
+* September 6, 2024: I was invited to join the TPC of ICDCS 2025.
+* May 11, 2024: I was invited to join the TPC of ICSOC 2024.
 * May 1, 2024: I was invited to join the TPC of EuroSys 2025.
 * April 30, 2024: I was invited to join the TPC of UCC 2024.
 * April 28, 2024: I was invited to join the TPC of IEEE OPODIS 2024.
@@ -127,5 +132,3 @@ I am also working in research projects in the domains of distributed file system
 * October 7, 2017: A paper titled "Resource Elasticity for Distributed Data Stream Processing: A Survey and Future Directions" was accepted at the [Journal of Network and Computer Applications](https://www.journals.elsevier.com/journal-of-network-and-computer-applications).
 * July 27-30, 2015: I attended the 21st International Conference on Parallel, and Distributed Processing Techniques and Applications held in Las Vegas, Nevada, US and I gave a [talk]
 * April 30, 2015: A paper entitled "BSPonP2P: Towards Running Bulk-Synchronous Parallel Applications on P2P Desktop Grids" was accepted at [International Conference on Parallel and Distributed Processing Techniques and Applications](http://www.worldacademyofscience.org/worldcomp15/ws/conferences/pdpta15).
-
-
