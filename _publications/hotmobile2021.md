@@ -5,6 +5,8 @@ category: conferences
 permalink: /publications/hotmobile2021
 venue: "HotMobile '21"
 date: 2021-02-26
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3446382.3448607'
+slidesurl:
 citation: 'Ramprasad, Brian; <b>da Silva Veith, Alexandre</b>; Gable, Moshe; de Lara, Eyal'
 ---
 [[Paper]](http://aveith.github.io/files/hotmobile2021.pdf) [[BIBTEX]](http://aveith.github.io/files/hotmobile2021.bib)

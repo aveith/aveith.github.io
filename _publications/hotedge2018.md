@@ -1,10 +1,12 @@
 ---
 title: "Latency-Aware Strategies for Placing Data Stream Analytics onto Edge Computing"
 collection: publications
-category: conferences
+category: posters
 permalink: /publications/hotedge2018
 venue: "HotEdge 2018"
 date: 2018-6-12
+paperurl: 'http://aveith.github.io/files/hotedge2018.pdf'
+slidesurl: 
 citation: '<b>da Silva Veith, Alexandre</b>; Dias de Assuncao, Marcos; Lefevre, Laurent'
 ---
 [[Paper]](http://aveith.github.io/files/hotedge2018.pdf)

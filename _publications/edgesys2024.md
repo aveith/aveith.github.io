@@ -5,6 +5,8 @@ category: conferences
 permalink: /publications/edgesys2024
 venue: "EdgeSys '24: Proceedings of the 7th International Workshop on Edge Systems, Analytics and Networking"
 date: 2024-04-04
+paperurl: 'https://dl.acm.org/doi/10.1145/3642968.3654822'
+slidesurl: 
 citation: 'Dantas de Lima Melo, Vinicius; Thiessen , Myles; Panas, Aleksey; <b>da Silva Veith, Alexandre</b>; Yano, Keijiro;  Balmau, Oana; de Lara, Eyal.'
 ---
 [[Paper]](http://aveith.github.io/files/edgesys2024.pdf) [[BIBTEX]](http://aveith.github.io/files/edgesys2024.bib)

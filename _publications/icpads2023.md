@@ -5,6 +5,8 @@ category: conferences
 permalink: /publications/icpads2023
 venue: "The 29th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2023)"
 date: 2023-10-05
+paperurl: 'https://ieeexplore.ieee.org/document/10476024'
+slidesurl: 'http://aveith.github.io/files/icpads2023-pres.pdf'
 citation: 'Ebrahimi, Maryam; <b>da Silva Veith, Alexandre</b>; Gabel, Moshe; de Lara, Eyal.'
 ---
 [[Paper]](http://aveith.github.io/files/icpads2023.pdf) [[BIBTEX]](http://aveith.github.io/files/icpads2023.bib)

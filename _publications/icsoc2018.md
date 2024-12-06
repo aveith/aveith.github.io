@@ -5,6 +5,8 @@ category: conferences
 permalink: /publications/icsoc2018
 venue: "ICSOC 2018"
 date: 2018-6-12
+paperurl: 'https://link.springer.com/chapter/10.1007%2F978-3-030-03596-9_14'
+slidesurl: 'http://aveith.github.io/files/icsoc2018-pres.pdf'
 citation: '<b>da Silva Veith, Alexandre</b>; de Assunção, Marcos Dias; Lefèvre, Laurent'
 ---
 [[Paper]](http://aveith.github.io/files/icsoc2018.pdf) [[BIBTEX]](http://aveith.github.io/files/icsoc2018.bib)

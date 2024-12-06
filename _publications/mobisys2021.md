@@ -1,10 +1,12 @@
 ---
 title: "[Pain-o-vision, effortless pain management](https://dl.acm.org/doi/10.1145/3458864.3466907)"
 collection: publications
-category: conferences
+category: posters
 permalink: /publications/mobisys2021
 venue: "MobiSys '21: Proceedings of the 19th Annual International Conference on Mobile Systems, Applications, and Services"
 date: 2021-06-24
+paperurl: 'https://dl.acm.org/doi/10.1145/3458864.3466907'
+slidesurl:
 citation: 'Ramprasad, Brian; Chen, Hongkai; <b>da Silva Veith, Alexandre</b>; Truong, Khai; de Lara, Eyal.'
 ---
 [[Paper]](http://aveith.github.io/files/mobisys2021.pdf) [[BIBTEX]](http://aveith.github.io/files/mobisys2021.bib)

@@ -5,6 +5,8 @@ category: conferences
 permalink: /publications/icsoc2020
 venue: "ICSOC 2020"
 date: 2020-8-6
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-65310-1_12'
+slidesurl:
 citation: 'de Souza, Felipe Rodrigo; <b>da Silva Veith, Alexandre</b>; de Assunção, Marcos Dias; Caron, Eddy'
 ---
 [[Paper]](http://aveith.github.io/files/icsoc2020.pdf) [[BIBTEX]](http://aveith.github.io/files/icsoc2020.bib)

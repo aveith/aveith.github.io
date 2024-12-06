@@ -5,6 +5,8 @@ category: journals
 permalink: /publications/ieee_access2020
 venue: "IEEE Access 2020"
 date: 2020-12-02
+paperurl: 'https://ieeexplore.ieee.org/document/9281110'
+slidesurl:
 citation: 'De Souza Junior, Paulo R. R.; Matteussi, Kassiano J.; <b>da Silva Veith, Alexandre</b>; Zanchetta, Breno F.; R. Q. Leithardt, Valderi; Lozano M., Álvaro; P. de Freitas, Edison; dos Anjos, Julio C. S.; R. Geyer, Claudio F.'
 ---
 [[Paper]](http://aveith.github.io/files/ieee_access2020.pdf) [[BIBTEX]](http://aveith.github.io/files/ieee_access2020.bib)

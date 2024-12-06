@@ -1,10 +1,12 @@
 ---
 title: "Assessing the Impact of Network Bandwidth and Operator Placement on Data Stream Processing for Edge Computing Environments"
 collection: publications
-category: conferences
+category: national
 permalink: /publications/compas2017
 venue: "COMPAS 2017"
 date: 2017-7-12
+paperurl: 'http://aveith.github.io/files/compas2017.pdf'
+slidesurl: 'http://aveith.github.io/files/compas2017-pres.pdf'
 citation: '<b>da Silva Veith, Alexandre</b>; Dias de Assunção, Marcos; Lefèvre, Laurent'
 ---
 [[Paper]](http://aveith.github.io/files/compas2017.pdf)
