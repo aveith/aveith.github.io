@@ -1,9 +1,12 @@
 ---
 title: "[Distributed Operator Placement for IoT Data Analytics Across Edge and Cloud Resources](https://ieeexplore.ieee.org/document/8752924)"
 collection: publications
+category: conferences
 permalink: /publications/ccgrid2019
 venue: "CCGrid 2019"
 date: 2019-2-12
+paperurl: 'https://ieeexplore.ieee.org/document/8752924'
+slidesurl: 'http://aveith.github.io/files/ccgrid2019.pdf'
 citation: 'Gibert Renart, Eduard*; <b>da Silva Veith, Alexandre</b>*; Balouek-Thomert, Daniel; de Assunção, Marcos Dias; Lefèvre, Laurent; Parashar, Manish'
 ---
 [[Paper]](http://aveith.github.io/files/ccgrid2019.pdf) [[BIBTEX]](http://aveith.github.io/files/ccgrid2019.bib)
