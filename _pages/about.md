@@ -61,7 +61,7 @@ I am also working in research projects in the domains of distributed file system
 * **IC2E 2024 (Industry Track)**, **IC2E 2023 (Workshop)**.
 
 # Technnical Program Committees
-* **ICFEC 2025**, **ICDCS 2025**, **ICSOC 2024**, **EuroSys 2025**, **UCC 2024**, **OPODIS 2024**, **IEEE SOCA 2024**, **PAISE 2024**, **IEEE SmartComp 2024**, **ICDCS 2024**, **ICFEC 2024**, **ICPADS 2023**, **UCC'23**, **NetAISys '23**, **ACSOS 2023**, **ICFEC 2023**, **IEEE SmartComp 2023**, **DEBS 2023**, **ICDCS 2023**, **EuroDW 2022**, **CCGrid 2022**, **ICFEC 2022**, **IEEE SmartComp 2022**, **ICPP 2020**, **InterCloud-HPC 2020**, and **ACM/IEEE Symposium on Edge Computing 2020**.
+* **ICFEC 2025**, **ICDCS 2025**, **ICSOC 2024 (Best Reviewer Award)**, **EuroSys 2025**, **UCC 2024**, **OPODIS 2024**, **IEEE SOCA 2024**, **PAISE 2024**, **IEEE SmartComp 2024**, **ICDCS 2024**, **ICFEC 2024**, **ICPADS 2023**, **UCC'23**, **NetAISys '23**, **ACSOS 2023**, **ICFEC 2023**, **IEEE SmartComp 2023**, **DEBS 2023**, **ICDCS 2023**, **EuroDW 2022**, **CCGrid 2022**, **ICFEC 2022**, **IEEE SmartComp 2022**, **ICPP 2020**, **InterCloud-HPC 2020**, and **ACM/IEEE Symposium on Edge Computing 2020**.
 
 # Journal Reviews
 * **Journal of Parallel and Distributed Computing**, **Journal of Industrial Information Integration**, **Future Generation Computer Systems**, **Transactions on Computer Systems (TOCS)**, **Engineering Applications of Artificial Intelligence**, **ACM Transactions on Parallel Computing**, **IEEE Transactions on Cloud Computing**, **IEEE Transactions on Parallel and Distributed Systems**, **Information Sciences**, **ACM Transactions on Autonomous and Adaptive Systems**, **Computing**, **Cybernetics and Systems**, and **Communications of the ACM**.
@@ -73,6 +73,7 @@ I am also working in research projects in the domains of distributed file system
 * **SBAC-PAD 2018**.
 
 # Recent News 
+* December 16, 2024: I won the **Best Reviewer Award** from [The 22nd International Conference on Service-Oriented Computing (ICSOC 2024)](https://icsoc2024.redcad.tn/).
 * December 6, 2024: Our paper titled "Falcon: Live Reconfiguration for Stateful Stream Processing on the Edge" received the **Best Paper Award** at [ACM/IEEE Symposium on Edge Computing (SEC 2024)](https://acm-ieee-sec.org/2024/index.php).
 * November 1, 2024: I was invited to join the TPC of ICFEC 2025.
 * September 24, 2024: A paper titled "Falcon: Live Reconfiguration for Stateful Stream Processing on the Edge" was accepted at [ACM/IEEE Symposium on Edge Computing (SEC 2024)](https://acm-ieee-sec.org/2024/index.php).
